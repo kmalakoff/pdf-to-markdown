@@ -1,0 +1,1 @@
+ignores: ["node-version-use", "ts-dev-stack", "pdf-to-markdown", "@tesseract.js-data/eng"]

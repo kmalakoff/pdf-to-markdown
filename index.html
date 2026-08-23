@@ -1,0 +1,170 @@
+<!DOCTYPE html><html class="default" lang="en" data-base="./"><head><meta charset="utf-8"/><meta http-equiv="x-ua-compatible" content="IE=edge"/><title>pdf-to-markdown</title><meta name="description" content="Documentation for pdf-to-markdown"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="assets/style.css"/><link rel="stylesheet" href="assets/highlight.css"/><script defer src="assets/main.js"></script><script async src="assets/icons.js" id="tsd-icons-script"></script><script async src="assets/search.js" id="tsd-search-script"></script><script async src="assets/navigation.js" id="tsd-nav-script"></script><script async src="assets/hierarchy.js" id="tsd-hierarchy-script"></script></head><body><script>document.documentElement.dataset.theme = localStorage.getItem("tsd-theme") || "os";document.body.style.display="none";setTimeout(() => window.app?app.showPage():document.body.style.removeProperty("display"),500)</script><header class="tsd-page-toolbar"><div class="tsd-toolbar-contents container"><a href="index.html" class="title">pdf-to-markdown</a><div id="tsd-toolbar-links"></div><button id="tsd-search-trigger" class="tsd-widget" aria-label="Search"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-search"></use></svg></button><dialog id="tsd-search" aria-label="Search"><input role="combobox" id="tsd-search-input" aria-controls="tsd-search-results" aria-autocomplete="list" aria-expanded="true" autocapitalize="off" autocomplete="off" placeholder="Search the docs" maxLength="100"/><ul role="listbox" id="tsd-search-results"></ul><div id="tsd-search-status" aria-live="polite" aria-atomic="true"><div>Preparing search index...</div></div></dialog><a href="#" class="tsd-widget menu" id="tsd-toolbar-menu-trigger" data-toggle="menu" aria-label="Menu"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-menu"></use></svg></a></div></header><div class="container container-main"><div class="col-content"><div class="tsd-page-title"><h1>pdf-to-markdown</h1></div><div class="tsd-panel tsd-typography"><h1 id="pdf-to-markdown" class="tsd-anchor-link">pdf-to-markdown<a href="#pdf-to-markdown" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h1>
+<blockquote>
+<p>Convert PDFs — born-digital or scanned — into markdown you can trust, under an explicit
+contract: recognized text is never silently lost, unrecoverable structure is marked rather
+than guessed, and every claim the output makes is mechanically checkable. When the defaults
+misread your document, you get the measured knobs, the detectors that point at exactly what to
+distrust, and the raw analysis to converge on a lossless conversion yourself.</p>
+</blockquote>
+<p>Pure TypeScript, runs anywhere <code>npm install</code> works. No system dependencies, no cloud calls: the
+OCR engine (<a href="https://www.npmjs.com/package/tesseract.js">tesseract.js</a>) and its recognition model
+install with the package and run fully offline.</p>
+<pre><code class="bash"><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">install</span><span class="hl-1"> </span><span class="hl-2">pdf-to-markdown</span>
+</code><button type="button">Copy</button></pre>
+
+<p>Requires Node &gt;=22.13.0 — below that, the OCR path silently finds no words instead of
+erroring (see Development for the measured reason).</p>
+<h2 id="cli" class="tsd-anchor-link">CLI<a href="#cli" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
+<pre><code class="bash"><span class="hl-0">npx</span><span class="hl-1"> </span><span class="hl-2">pdf-to-markdown</span><span class="hl-1"> </span><span class="hl-2">book.pdf</span><span class="hl-1">                 </span><span class="hl-3"># text layer -&gt; book.md (auto-OCR if pages are images)</span><br/><span class="hl-0">npx</span><span class="hl-1"> </span><span class="hl-2">pdf-to-markdown</span><span class="hl-1"> </span><span class="hl-2">scan.pdf</span><span class="hl-1"> </span><span class="hl-2">out.md</span><span class="hl-1"> </span><span class="hl-4">--ocr</span><span class="hl-1">    </span><span class="hl-3"># force the OCR path</span>
+</code><button type="button">Copy</button></pre>
+
+<pre><code><span class="hl-5">pdf</span><span class="hl-1">-</span><span class="hl-5">to</span><span class="hl-1">-</span><span class="hl-5">markdown</span><span class="hl-1"> &lt;</span><span class="hl-5">file</span><span class="hl-1">.</span><span class="hl-5">pdf</span><span class="hl-1">&gt; [</span><span class="hl-5">out</span><span class="hl-1">.</span><span class="hl-5">md</span><span class="hl-1">] [</span><span class="hl-5">flags</span><span class="hl-1">...]         </span><span class="hl-0">convert</span><span class="hl-1"> (</span><span class="hl-5">implicit</span><span class="hl-1"> </span><span class="hl-2">`extract`</span><span class="hl-1">)</span><br/><span class="hl-5">pdf</span><span class="hl-1">-</span><span class="hl-5">to</span><span class="hl-1">-</span><span class="hl-5">markdown</span><span class="hl-1"> </span><span class="hl-5">render</span><span class="hl-1"> &lt;</span><span class="hl-5">file</span><span class="hl-1">.</span><span class="hl-5">pdf</span><span class="hl-1">&gt; &lt;</span><span class="hl-6">page</span><span class="hl-1">&gt;[-&lt;</span><span class="hl-6">page</span><span class="hl-1">&gt;]      </span><span class="hl-5">render</span><span class="hl-1"> </span><span class="hl-5">a</span><span class="hl-1"> </span><span class="hl-5">page</span><span class="hl-1"> </span><span class="hl-5">to</span><span class="hl-1"> </span><span class="hl-7">PNG</span><span class="hl-1"> </span><span class="hl-5">for</span><span class="hl-1"> </span><span class="hl-5">eyeballing</span><br/><span class="hl-5">pdf</span><span class="hl-1">-</span><span class="hl-5">to</span><span class="hl-1">-</span><span class="hl-5">markdown</span><span class="hl-1"> </span><span class="hl-5">audit</span><span class="hl-1"> &lt;</span><span class="hl-5">words</span><span class="hl-1">.</span><span class="hl-5">jsonl</span><span class="hl-1">&gt; &lt;</span><span class="hl-6">file</span><span class="hl-1">.</span><span class="hl-6">md</span><span class="hl-1">&gt;          </span><span class="hl-5">severity</span><span class="hl-1">-</span><span class="hl-8">1</span><span class="hl-1"> </span><span class="hl-9">check</span><span class="hl-1">: </span><span class="hl-5">every</span><span class="hl-1"> </span><span class="hl-5">recognized</span><span class="hl-1"> </span><span class="hl-5">word</span><span class="hl-1"> </span><span class="hl-5">present</span><span class="hl-1">?</span><br/><span class="hl-5">pdf</span><span class="hl-1">-</span><span class="hl-5">to</span><span class="hl-1">-</span><span class="hl-5">markdown</span><span class="hl-1"> --</span><span class="hl-5">help</span><span class="hl-1"> | --</span><span class="hl-5">version</span>
+</code><button>Copy</button></pre>
+
+<p>Everyday flags: <code>--ocr</code>, <code>--no-ocr</code>, <code>--pages N[-M]</code>, <code>--stdout</code>, <code>--json</code> (QA report),
+<code>--format md|txt|raw</code> (default <code>md</code>; <code>raw</code> = the full <code>Analysis</code> as JSON, report included; <code>txt</code> =
+reading-order plain text — line-granular on the text path with no paragraph reflow, block-granular
+on the OCR path), <code>--debug-words=FILE</code> (severity-1 audit input, see below), <code>--dpi=N</code>
+(OCR render resolution). Usage errors exit 2; runtime errors exit 1.</p>
+<h2 id="library" class="tsd-anchor-link">Library<a href="#library" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
+<pre><code class="ts"><span class="hl-10">import</span><span class="hl-1"> { </span><span class="hl-5">pdfToMarkdown</span><span class="hl-1"> } </span><span class="hl-10">from</span><span class="hl-1"> </span><span class="hl-2">&#39;pdf-to-markdown&#39;</span><span class="hl-1">;</span><br/><br/><span class="hl-4">const</span><span class="hl-1"> { </span><span class="hl-7">markdown</span><span class="hl-1">, </span><span class="hl-7">report</span><span class="hl-1">, </span><span class="hl-7">warnings</span><span class="hl-1"> } = </span><span class="hl-10">await</span><span class="hl-1"> </span><span class="hl-0">pdfToMarkdown</span><span class="hl-1">(</span><span class="hl-2">&#39;book.pdf&#39;</span><span class="hl-1">);</span>
+</code><button type="button">Copy</button></pre>
+
+<p><code>pdfToMarkdown</code> is the headline API: text layer first, falling back to OCR on its own when the
+pages are images of text. For explicit control over which path runs (hybrid pages — a real text
+layer plus a large embedded image — are a class the tool itself flags, and reading both requires
+naming the path), the engine-agnostic word-input seam, and the <code>analyze</code>/<code>toMarkdown</code>/<code>toText</code>
+raw-analysis API described below, every exported function and option is documented at its
+declaration — <code>extractText</code>, <code>extractOcr</code>, <code>analyze</code>, <code>toMarkdown</code>, <code>toText</code>, <code>auditWords</code>,
+<code>DEFAULT_TUNING</code>, and the rest — visible in editor hover and in the <a href="https://kmalakoff.github.io/pdf-to-markdown/">API Docs</a>.
+TSDoc is the source of truth for per-option prose; this file stays a map, not a mirror.</p>
+<p>All library functions throw a typed <code>PdfToMdError</code> (<code>code: 'PDF_OPEN' | 'PAGE_RANGE' | 'PAGE_RENDER' | 'OCR_PAGE_FAILED' | 'WORDS_INPUT' | 'ANALYSIS_INPUT'</code>) and never write to
+stdout/stderr or exit the process; warnings are returned data (plus an <code>onWarning</code> callback for
+streaming them).</p>
+<h2 id="design-contract" class="tsd-anchor-link">Design contract<a href="#design-contract" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
+<p>What this tool promises about errors, in severity order — each with the instrument that enforces it:</p>
+<ol>
+<li><strong>Silent text loss is forbidden.</strong> Every word the engine recognizes lands in the output — body,
+heading, or a visible <code>&gt; [floats]</code> aside. <strong>Enforced by:</strong> <code>--debug-words=FILE</code> dumps every
+recognized word as clean JSON lines (<code>{page, text, x, y, w, h, confidence?}</code>); the shipped
+<code>auditWords()</code> (or <code>pdf-to-markdown audit words.jsonl out.md</code>) checks the dump against the markdown
+and exits 1 on any loss (<code>MISSING &gt; 0</code>) — a first-class part of the product, usable as a CI
+gate, not a path into the source tree.</li>
+<li><strong>Invisible corruption is minimized and made detectable.</strong> Right-words-wrong-order failures
+(column braiding, mid-sentence splits) are what the geometry works hardest to prevent; a second
+class — right order, WRONG VALUE (an OCR misread spliced into otherwise word-like prose) — is
+what confidence scoring catches. <strong>Enforced by:</strong> <code>report.danglingLong</code> (the order-failure
+detector no output-only check can prove), <code>report.reviewBlocks</code> (blocks the geometry couldn't
+order, labeled rather than guessed at), and <code>report.lowConfidenceWords</code> /
+<code>pageStats[].lowConfidenceSample</code> (words the engine itself scored below confidence 60 — see
+<code>LOW_CONFIDENCE_THRESHOLD</code>'s test in <code>test/unit/review-blocks.test.ts</code> for the measured derivation).</li>
+<li><strong>Visible misplacement is acceptable.</strong> A fragment in the floats aside, a <code>&gt; [review: ...]</code>
+block, or an odd paragraph break is something a caller can see and edit; the two classes above
+are not. <strong>Enforced by:</strong> the <code>&gt; [floats]</code> / <code>&gt; [review: reason]</code> markers themselves — regular
+enough (<code>^&gt; \[(floats|review: [^\]]+)\] (.*)$</code>) for a downstream agent to find and handle
+without guessing — surfaced in <code>--json</code> as <code>report.floats</code> / <code>report.reviewBlocks</code>.</li>
+</ol>
+<p>The QA report (<code>--json</code>) exists to make 2 and 3 reviewable: per-page stats flag suspect pages, and
+<code>pdf-to-markdown render</code> shows you the page as printed — the only real ground truth.</p>
+<p><strong>Why there's no <code>--floats=drop</code>:</strong> an earlier version offered one, filtering <code>&gt; [floats]</code> lines
+out of the output. Measured against a real 100-page document, floats held real sentence tails on
+pages 29, 48, and 94 — &quot;drop&quot; invited exactly the silent loss rule 1 forbids, so the knob was cut.
+Filtering them back out downstream is one line (<code>^&gt; \[floats\]</code>) a caller can write when floats
+truly are noise for their document; the tool won't make that call for you.</p>
+<p><strong><code>closedHyphens</code> as a cross-check, not a target:</strong> the text path's <code>report.closedHyphens</code> counts
+line-final hyphens closed against a dictionary (e.g. &quot;creat-&quot; + &quot;ive&quot; → &quot;creative&quot;). It exists to
+explain the auditor's <code>strict_deficits</code> count, not to be optimized directly: on the reference
+100-page document, <code>strict_deficits</code> reads 16 against the original (Vision) OCR output and 18
+against tesseract.js's — both numbers are hyphen-rejoins firing (a word split across two lines,
+correctly closed into one), not real loss, and <code>closedHyphens</code> is the independent signal that
+confirms it.</p>
+<h2 id="tuning" class="tsd-anchor-link">Tuning<a href="#tuning" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
+<p>OCR-path heuristics run on constants measured against real documents — the derivation for each
+lives beside its value in <code>src/geometry.ts</code>'s <code>DEFAULT_TUNING</code> (the canonical source; typedoc
+renders it). Override per run instead of editing source:</p>
+<table>
+<thead>
+<tr>
+<th>flag</th>
+<th>controls</th>
+<th>default</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--float-max-words</code></td>
+<td>fragments with more words than this are body text, not decoration</td>
+<td><code>3</code></td>
+</tr>
+<tr>
+<td><code>--float-max-width</code></td>
+<td>fraction of page width above which a fragment is too wide to be decoration</td>
+<td><code>0.15</code></td>
+</tr>
+<tr>
+<td><code>--float-margin</code></td>
+<td>how far a fragment's left edge must sit from its column edge to be decoration</td>
+<td><code>0.008</code></td>
+</tr>
+<tr>
+<td><code>--para-gap</code></td>
+<td>a vertical gap this many times the line pitch is a paragraph break</td>
+<td><code>1.6</code></td>
+</tr>
+<tr>
+<td><code>--heading-scale</code></td>
+<td>lines taller than this times body height are headings</td>
+<td><code>2.0</code></td>
+</tr>
+<tr>
+<td><code>--col-max-width</code></td>
+<td>boxes wider than this are excluded from gutter detection</td>
+<td><code>0.55</code></td>
+</tr>
+<tr>
+<td><code>--col-split</code></td>
+<td>fractional x of the two-column midpoint</td>
+<td><code>0.5</code></td>
+</tr>
+<tr>
+<td><code>--line-y-tol</code></td>
+<td>vertical distance within which two boxes are the same line</td>
+<td><code>0.006</code></td>
+</tr>
+<tr>
+<td><code>--line-height-ratio</code></td>
+<td>same-line boxes with a larger height ratio don't merge</td>
+<td><code>2.4</code></td>
+</tr>
+<tr>
+<td><code>--dpi</code></td>
+<td>OCR page-render resolution; raise for tiny print or chart/label pages (measured up to <code>600</code> to converge a corrupted chart label), <code>&gt;~400</code> measured worse on ordinary prose pages</td>
+<td><code>288</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Hybrid pages:</strong> raising <code>--dpi</code> fixes chart/label corruption but can make scattered numerals on
+the same page WORSE, not better (measured: a chart page's numerals recognized at <code>288</code> dpi, then
+none at <code>600</code>, while the page's own text layer already had them all) — <code>--dpi</code> is a chart-LABEL
+fix, not a scattered-numeral fix. For hybrid pages, compare (or merge, via <code>analyze()</code>) the
+text-layer and OCR readings rather than trusting one dpi setting to fix everything on the page.</p>
+<p>Typical loop: run with <code>--json</code>, find suspect pages in <code>pageStats</code>, <code>pdf-to-markdown render</code> them, then
+re-extract just those pages with <code>--pages</code> and an adjusted flag — or use <code>--format=raw</code> to get the
+full <code>Analysis</code> (words + blocks + report) and converge programmatically.</p>
+<h2 id="for-ai-agents" class="tsd-anchor-link">For AI agents<a href="#for-ai-agents" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
+<pre><code class="bash"><span class="hl-0">npx</span><span class="hl-1"> </span><span class="hl-2">skills</span><span class="hl-1"> </span><span class="hl-2">add</span><span class="hl-1"> </span><span class="hl-2">kmalakoff/pdf-to-markdown</span><span class="hl-1">   </span><span class="hl-3"># -g for global, -a claude-code to target</span>
+</code><button type="button">Copy</button></pre>
+
+<p>One skill: <code>pdf-to-markdown</code> for driving the QA loop above (reading <code>pageStats</code>, rendering pages as
+ground truth, targeted re-extraction, the severity-1 audit, and the <code>&gt; [floats]</code> / <code>&gt; [review: ...]</code> markers) instead of trusting the first conversion.</p>
+<h2 id="development" class="tsd-anchor-link">Development<a href="#development" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
+<pre><code class="bash"><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">run</span><span class="hl-1"> </span><span class="hl-2">build</span><span class="hl-1">     </span><span class="hl-3"># tsds build -&gt; dist/cjs + dist/esm (pretest step; plain `npm test` builds first)</span><br/><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">test</span><span class="hl-1">          </span><span class="hl-3"># synthetic fixtures (ground truth by construction), a fetched+sha256-pinned</span><br/><span class="hl-1">                   </span><span class="hl-3"># public corpus (skips offline), real engine runs, plus self-skipping</span><br/><span class="hl-1">                   </span><span class="hl-3"># private-document extras when available locally</span><br/><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">run</span><span class="hl-1"> </span><span class="hl-2">check</span><span class="hl-1">     </span><span class="hl-3"># npm-check-prepublish: pack, temp install, CLI verification against the tarball</span><br/><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">run</span><span class="hl-1"> </span><span class="hl-2">prepublishOnly</span><span class="hl-1">   </span><span class="hl-3"># tsds validate (build + biome + depcheck) &amp;&amp; npm run check</span>
+</code><button type="button">Copy</button></pre>
+
+<p>Source is TypeScript; the published package ships a built <code>dist/</code> (dual CJS + ESM via <code>tsds build</code>) because Node's native type-stripping refuses to run <code>.ts</code> files once they're under
+<code>node_modules</code>. Tests still run directly against source; the CLI test helper spawns the built
+<code>bin/cli.js</code>, which is why a build has to happen first.</p>
+<p><code>engines.node</code> is <code>&gt;=22.13.0</code>, measured (not assumed): <code>pdfjs-dist</code>'s CJS build needs Node's
+stable synchronous <code>require(esm)</code>, and its rendering path uses a V8 <code>ArrayBuffer</code> API missing
+before Node 22. Don't lower this floor without re-running that measurement.</p>
+</div></div><div class="col-sidebar"><div class="page-menu"><div class="tsd-navigation settings"><details class="tsd-accordion"><summary class="tsd-accordion-summary"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-chevronDown"></use></svg><h3>Settings</h3></summary><div class="tsd-accordion-details"><div class="tsd-filter-visibility"><span class="settings-label">Member Visibility</span><ul id="tsd-filter-options"><li class="tsd-filter-item"><label class="tsd-filter-input"><input type="checkbox" id="tsd-filter-protected" name="protected"/><svg width="32" height="32" viewBox="0 0 32 32" aria-hidden="true"><rect class="tsd-checkbox-background" width="30" height="30" x="1" y="1" rx="6" fill="none"></rect><path class="tsd-checkbox-checkmark" d="M8.35422 16.8214L13.2143 21.75L24.6458 10.25" stroke="none" stroke-width="3.5" stroke-linejoin="round" fill="none"></path></svg><span>Protected</span></label></li><li class="tsd-filter-item"><label class="tsd-filter-input"><input type="checkbox" id="tsd-filter-inherited" name="inherited" checked/><svg width="32" height="32" viewBox="0 0 32 32" aria-hidden="true"><rect class="tsd-checkbox-background" width="30" height="30" x="1" y="1" rx="6" fill="none"></rect><path class="tsd-checkbox-checkmark" d="M8.35422 16.8214L13.2143 21.75L24.6458 10.25" stroke="none" stroke-width="3.5" stroke-linejoin="round" fill="none"></path></svg><span>Inherited</span></label></li></ul></div><div class="tsd-theme-toggle"><label class="settings-label" for="tsd-theme">Theme</label><select id="tsd-theme"><option value="os">OS</option><option value="light">Light</option><option value="dark">Dark</option></select></div></div></details></div><details open class="tsd-accordion tsd-page-navigation"><summary class="tsd-accordion-summary"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-chevronDown"></use></svg><h3>On This Page</h3></summary><div class="tsd-accordion-details"><a href="#pdf-to-markdown"><span>pdf-<wbr/>to-<wbr/>markdown</span></a><ul><li><a href="#cli"><span>CLI</span></a></li><li><a href="#library"><span>Library</span></a></li><li><a href="#design-contract"><span>Design contract</span></a></li><li><a href="#tuning"><span>Tuning</span></a></li><li><a href="#for-ai-agents"><span>For <wbr/>AI agents</span></a></li><li><a href="#development"><span>Development</span></a></li></ul></div></details></div><div class="site-menu"><nav class="tsd-navigation"><a href="modules.html">pdf-to-markdown</a><ul class="tsd-small-nested-navigation" id="tsd-nav-container"><li>Loading...</li></ul></nav></div></div></div><footer><p class="tsd-generator">Generated using <a href="https://typedoc.org/" target="_blank">TypeDoc</a></p></footer><div class="overlay"></div></body></html>
