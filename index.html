@@ -1,5 +1,5 @@
-<!DOCTYPE html><html class="default" lang="en" data-base="./"><head><meta charset="utf-8"/><meta http-equiv="x-ua-compatible" content="IE=edge"/><title>md-from-pdf</title><meta name="description" content="Documentation for md-from-pdf"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="assets/style.css"/><link rel="stylesheet" href="assets/highlight.css"/><script defer src="assets/main.js"></script><script async src="assets/icons.js" id="tsd-icons-script"></script><script async src="assets/search.js" id="tsd-search-script"></script><script async src="assets/navigation.js" id="tsd-nav-script"></script><script async src="assets/hierarchy.js" id="tsd-hierarchy-script"></script></head><body><script>document.documentElement.dataset.theme = localStorage.getItem("tsd-theme") || "os";document.body.style.display="none";setTimeout(() => window.app?app.showPage():document.body.style.removeProperty("display"),500)</script><header class="tsd-page-toolbar">
-<div class="tsd-toolbar-contents container"><a href="index.html" class="title">md-from-pdf</a>
+<!DOCTYPE html><html class="default" lang="en" data-base="./"><head><meta charset="utf-8"/><meta http-equiv="x-ua-compatible" content="IE=edge"/><title>@effortlessmotion/pdf-to-md</title><meta name="description" content="Documentation for @effortlessmotion/pdf-to-md"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="assets/style.css"/><link rel="stylesheet" href="assets/highlight.css"/><script defer src="assets/main.js"></script><script async src="assets/icons.js" id="tsd-icons-script"></script><script async src="assets/search.js" id="tsd-search-script"></script><script async src="assets/navigation.js" id="tsd-nav-script"></script><script async src="assets/hierarchy.js" id="tsd-hierarchy-script"></script></head><body><script>document.documentElement.dataset.theme = localStorage.getItem("tsd-theme") || "os";document.body.style.display="none";setTimeout(() => window.app?app.showPage():document.body.style.removeProperty("display"),500)</script><header class="tsd-page-toolbar">
+<div class="tsd-toolbar-contents container"><a href="index.html" class="title">@effortlessmotion/pdf-to-md</a>
 <div id="tsd-toolbar-links"></div><button id="tsd-search-trigger" class="tsd-widget" aria-label="Search"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-search"></use></svg></button><dialog id="tsd-search" aria-label="Search"><input role="combobox" id="tsd-search-input" aria-controls="tsd-search-results" aria-autocomplete="list" aria-expanded="true" autocapitalize="off" autocomplete="off" placeholder="Search the docs" maxLength="100"/>
 <ul role="listbox" id="tsd-search-results"></ul>
 <div id="tsd-search-status" aria-live="polite" aria-atomic="true">
@@ -7,8 +7,8 @@
 <div class="container container-main">
 <div class="col-content">
 <div class="tsd-page-title">
-<h1>md-from-pdf</h1></div>
-<div class="tsd-panel tsd-typography"><h1 id="md-from-pdf" class="tsd-anchor-link">md-from-pdf<a href="#md-from-pdf" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h1>
+<h1>@effortlessmotion/pdf-to-md</h1></div>
+<div class="tsd-panel tsd-typography"><h1 id="pdf-to-md" class="tsd-anchor-link">pdf-to-md<a href="#pdf-to-md" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h1>
 <blockquote>
 <p>Convert PDFs — born-digital or scanned — into markdown you can trust, under an explicit
 contract: recognized text is never silently lost, unrecoverable structure is marked rather
@@ -19,16 +19,16 @@ distrust, and the raw analysis to converge on a lossless conversion yourself.</p
 <p>Pure TypeScript, runs anywhere <code>npm install</code> works. No system dependencies, no cloud calls: the
 OCR engine (<a href="https://www.npmjs.com/package/tesseract.js">tesseract.js</a>) and its recognition model
 install with the package and run fully offline.</p>
-<pre><code class="bash"><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">install</span><span class="hl-1"> </span><span class="hl-2">md-from-pdf</span>
+<pre><code class="bash"><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">install</span><span class="hl-1"> </span><span class="hl-2">pdf-to-md</span>
 </code><button type="button">Copy</button></pre>
 
 <p>Requires Node &gt;=22.13.0 — below that, the OCR path silently finds no words instead of
 erroring (see Development for the measured reason).</p>
 <h2 id="cli" class="tsd-anchor-link">CLI<a href="#cli" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
-<pre><code class="bash"><span class="hl-0">npx</span><span class="hl-1"> </span><span class="hl-2">md-from-pdf</span><span class="hl-1"> </span><span class="hl-2">book.pdf</span><span class="hl-1">                 </span><span class="hl-3"># text layer -&gt; book.md (auto-OCR if pages are images)</span><br/><span class="hl-0">npx</span><span class="hl-1"> </span><span class="hl-2">md-from-pdf</span><span class="hl-1"> </span><span class="hl-2">scan.pdf</span><span class="hl-1"> </span><span class="hl-2">out.md</span><span class="hl-1"> </span><span class="hl-4">--ocr</span><span class="hl-1">    </span><span class="hl-3"># force the OCR path</span>
+<pre><code class="bash"><span class="hl-0">npx</span><span class="hl-1"> </span><span class="hl-2">pdf-to-md</span><span class="hl-1"> </span><span class="hl-2">book.pdf</span><span class="hl-1">                 </span><span class="hl-3"># text layer -&gt; book.md (auto-OCR if pages are images)</span><br/><span class="hl-0">npx</span><span class="hl-1"> </span><span class="hl-2">pdf-to-md</span><span class="hl-1"> </span><span class="hl-2">scan.pdf</span><span class="hl-1"> </span><span class="hl-2">out.md</span><span class="hl-1"> </span><span class="hl-4">--ocr</span><span class="hl-1">    </span><span class="hl-3"># force the OCR path</span>
 </code><button type="button">Copy</button></pre>
 
-<pre><code><span class="hl-5">md</span><span class="hl-1">-</span><span class="hl-5">from</span><span class="hl-1">-</span><span class="hl-5">pdf</span><span class="hl-1"> &lt;</span><span class="hl-5">file</span><span class="hl-1">.</span><span class="hl-5">pdf</span><span class="hl-1">&gt; [</span><span class="hl-5">out</span><span class="hl-1">.</span><span class="hl-5">md</span><span class="hl-1">] [</span><span class="hl-5">flags</span><span class="hl-1">...]         </span><span class="hl-0">convert</span><span class="hl-1"> (</span><span class="hl-5">implicit</span><span class="hl-1"> </span><span class="hl-2">`extract`</span><span class="hl-1">)</span><br/><span class="hl-5">md</span><span class="hl-1">-</span><span class="hl-5">from</span><span class="hl-1">-</span><span class="hl-5">pdf</span><span class="hl-1"> </span><span class="hl-5">render</span><span class="hl-1"> &lt;</span><span class="hl-5">file</span><span class="hl-1">.</span><span class="hl-5">pdf</span><span class="hl-1">&gt; &lt;</span><span class="hl-6">page</span><span class="hl-1">&gt;[-&lt;</span><span class="hl-6">page</span><span class="hl-1">&gt;]      </span><span class="hl-5">render</span><span class="hl-1"> </span><span class="hl-5">a</span><span class="hl-1"> </span><span class="hl-5">page</span><span class="hl-1"> </span><span class="hl-5">to</span><span class="hl-1"> </span><span class="hl-7">PNG</span><span class="hl-1"> </span><span class="hl-5">for</span><span class="hl-1"> </span><span class="hl-5">eyeballing</span><br/><span class="hl-5">md</span><span class="hl-1">-</span><span class="hl-5">from</span><span class="hl-1">-</span><span class="hl-5">pdf</span><span class="hl-1"> </span><span class="hl-5">audit</span><span class="hl-1"> &lt;</span><span class="hl-5">words</span><span class="hl-1">.</span><span class="hl-5">jsonl</span><span class="hl-1">&gt; &lt;</span><span class="hl-6">file</span><span class="hl-1">.</span><span class="hl-6">md</span><span class="hl-1">&gt;          </span><span class="hl-5">severity</span><span class="hl-1">-</span><span class="hl-8">1</span><span class="hl-1"> </span><span class="hl-9">check</span><span class="hl-1">: </span><span class="hl-5">every</span><span class="hl-1"> </span><span class="hl-5">recognized</span><span class="hl-1"> </span><span class="hl-5">word</span><span class="hl-1"> </span><span class="hl-5">present</span><span class="hl-1">?</span><br/><span class="hl-5">md</span><span class="hl-1">-</span><span class="hl-5">from</span><span class="hl-1">-</span><span class="hl-5">pdf</span><span class="hl-1"> --</span><span class="hl-5">help</span><span class="hl-1"> | --</span><span class="hl-5">version</span>
+<pre><code><span class="hl-5">pdf</span><span class="hl-1">-</span><span class="hl-5">to</span><span class="hl-1">-</span><span class="hl-5">md</span><span class="hl-1"> &lt;</span><span class="hl-5">file</span><span class="hl-1">.</span><span class="hl-5">pdf</span><span class="hl-1">&gt; [</span><span class="hl-5">out</span><span class="hl-1">.</span><span class="hl-5">md</span><span class="hl-1">] [</span><span class="hl-5">flags</span><span class="hl-1">...]         </span><span class="hl-0">convert</span><span class="hl-1"> (</span><span class="hl-5">implicit</span><span class="hl-1"> </span><span class="hl-2">`extract`</span><span class="hl-1">)</span><br/><span class="hl-5">pdf</span><span class="hl-1">-</span><span class="hl-5">to</span><span class="hl-1">-</span><span class="hl-5">md</span><span class="hl-1"> </span><span class="hl-5">render</span><span class="hl-1"> &lt;</span><span class="hl-5">file</span><span class="hl-1">.</span><span class="hl-5">pdf</span><span class="hl-1">&gt; &lt;</span><span class="hl-6">page</span><span class="hl-1">&gt;[-&lt;</span><span class="hl-6">page</span><span class="hl-1">&gt;]      </span><span class="hl-5">render</span><span class="hl-1"> </span><span class="hl-5">a</span><span class="hl-1"> </span><span class="hl-5">page</span><span class="hl-1"> </span><span class="hl-5">to</span><span class="hl-1"> </span><span class="hl-7">PNG</span><span class="hl-1"> </span><span class="hl-5">for</span><span class="hl-1"> </span><span class="hl-5">eyeballing</span><br/><span class="hl-5">pdf</span><span class="hl-1">-</span><span class="hl-5">to</span><span class="hl-1">-</span><span class="hl-5">md</span><span class="hl-1"> </span><span class="hl-5">audit</span><span class="hl-1"> &lt;</span><span class="hl-5">words</span><span class="hl-1">.</span><span class="hl-5">jsonl</span><span class="hl-1">&gt; &lt;</span><span class="hl-6">file</span><span class="hl-1">.</span><span class="hl-6">md</span><span class="hl-1">&gt;          </span><span class="hl-5">severity</span><span class="hl-1">-</span><span class="hl-8">1</span><span class="hl-1"> </span><span class="hl-9">check</span><span class="hl-1">: </span><span class="hl-5">every</span><span class="hl-1"> </span><span class="hl-5">recognized</span><span class="hl-1"> </span><span class="hl-5">word</span><span class="hl-1"> </span><span class="hl-5">present</span><span class="hl-1">?</span><br/><span class="hl-5">pdf</span><span class="hl-1">-</span><span class="hl-5">to</span><span class="hl-1">-</span><span class="hl-5">md</span><span class="hl-1"> --</span><span class="hl-5">help</span><span class="hl-1"> | --</span><span class="hl-5">version</span>
 </code><button>Copy</button></pre>
 
 <p>Everyday flags: <code>--ocr</code>, <code>--no-ocr</code>, <code>--pages N[-M]</code>, <code>--stdout</code>, <code>--json</code> (QA report),
@@ -37,7 +37,7 @@ reading-order plain text — line-granular on the text path with no paragraph re
 on the OCR path), <code>--debug-words=FILE</code> (severity-1 audit input, see below), <code>--dpi=N</code>
 (OCR render resolution). Usage errors exit 2; runtime errors exit 1.</p>
 <h2 id="library" class="tsd-anchor-link">Library<a href="#library" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
-<pre><code class="ts"><span class="hl-10">import</span><span class="hl-1"> { </span><span class="hl-5">pdfToMarkdown</span><span class="hl-1"> } </span><span class="hl-10">from</span><span class="hl-1"> </span><span class="hl-2">&#39;md-from-pdf&#39;</span><span class="hl-1">;</span><br/><br/><span class="hl-4">const</span><span class="hl-1"> { </span><span class="hl-7">markdown</span><span class="hl-1">, </span><span class="hl-7">report</span><span class="hl-1">, </span><span class="hl-7">warnings</span><span class="hl-1"> } = </span><span class="hl-10">await</span><span class="hl-1"> </span><span class="hl-0">pdfToMarkdown</span><span class="hl-1">(</span><span class="hl-2">&#39;book.pdf&#39;</span><span class="hl-1">);</span>
+<pre><code class="ts"><span class="hl-10">import</span><span class="hl-1"> { </span><span class="hl-5">pdfToMarkdown</span><span class="hl-1"> } </span><span class="hl-10">from</span><span class="hl-1"> </span><span class="hl-2">&#39;pdf-to-md&#39;</span><span class="hl-1">;</span><br/><br/><span class="hl-4">const</span><span class="hl-1"> { </span><span class="hl-7">markdown</span><span class="hl-1">, </span><span class="hl-7">report</span><span class="hl-1">, </span><span class="hl-7">warnings</span><span class="hl-1"> } = </span><span class="hl-10">await</span><span class="hl-1"> </span><span class="hl-0">pdfToMarkdown</span><span class="hl-1">(</span><span class="hl-2">&#39;book.pdf&#39;</span><span class="hl-1">);</span>
 </code><button type="button">Copy</button></pre>
 
 <p><code>pdfToMarkdown</code> is the headline API: text layer first, falling back to OCR on its own when the
@@ -46,7 +46,7 @@ layer plus a large embedded image — are a class the tool itself flags, and rea
 naming the path), the engine-agnostic word-input seam, and the <code>analyze</code>/<code>toMarkdown</code>/<code>toText</code>
 raw-analysis API described below, every exported function and option is documented at its
 declaration — <code>extractText</code>, <code>extractOcr</code>, <code>analyze</code>, <code>toMarkdown</code>, <code>toText</code>, <code>auditWords</code>,
-<code>DEFAULT_TUNING</code>, and the rest — visible in editor hover and in the <a href="https://kmalakoff.github.io/md-from-pdf/">API Docs</a>.
+<code>DEFAULT_TUNING</code>, and the rest — visible in editor hover and in the <a href="https://kmalakoff.github.io/pdf-to-md/">API Docs</a>.
 TSDoc is the source of truth for per-option prose; this file stays a map, not a mirror.</p>
 <p>All library functions throw a typed <code>PdfToMdError</code> (<code>code: 'PDF_OPEN' | 'PAGE_RANGE' | 'PAGE_RENDER' | 'OCR_PAGE_FAILED' | 'WORDS_INPUT' | 'ANALYSIS_INPUT'</code>) and never write to
 stdout/stderr or exit the process; warnings are returned data (plus an <code>onWarning</code> callback for
@@ -57,7 +57,7 @@ streaming them).</p>
 <li><strong>Silent text loss is forbidden.</strong> Every word the engine recognizes lands in the output — body,
 heading, or a visible <code>&gt; [floats]</code> aside. <strong>Enforced by:</strong> <code>--debug-words=FILE</code> dumps every
 recognized word as clean JSON lines (<code>{page, text, x, y, w, h, confidence?}</code>); the shipped
-<code>auditWords()</code> (or <code>md-from-pdf audit words.jsonl out.md</code>) checks the dump against the markdown
+<code>auditWords()</code> (or <code>pdf-to-md audit words.jsonl out.md</code>) checks the dump against the markdown
 and exits 1 on any loss (<code>MISSING &gt; 0</code>) — a first-class part of the product, usable as a CI
 gate, not a path into the source tree.</li>
 <li><strong>Invisible corruption is minimized and made detectable.</strong> Right-words-wrong-order failures
@@ -75,7 +75,7 @@ enough (<code>^&gt; \[(floats|review: [^\]]+)\] (.*)$</code>) for a downstream a
 without guessing — surfaced in <code>--json</code> as <code>report.floats</code> / <code>report.reviewBlocks</code>.</li>
 </ol>
 <p>The QA report (<code>--json</code>) exists to make 2 and 3 reviewable: per-page stats flag suspect pages, and
-<code>md-from-pdf render</code> shows you the page as printed — the only real ground truth.</p>
+<code>pdf-to-md render</code> shows you the page as printed — the only real ground truth.</p>
 <p><strong>Why there's no <code>--floats=drop</code>:</strong> an earlier version offered one, filtering <code>&gt; [floats]</code> lines
 out of the output. Measured against a real 100-page document, floats held real sentence tails on
 pages 29, 48, and 94 — &quot;drop&quot; invited exactly the silent loss rule 1 forbids, so the knob was cut.
@@ -156,14 +156,14 @@ the same page WORSE, not better (measured: a chart page's numerals recognized at
 none at <code>600</code>, while the page's own text layer already had them all) — <code>--dpi</code> is a chart-LABEL
 fix, not a scattered-numeral fix. For hybrid pages, compare (or merge, via <code>analyze()</code>) the
 text-layer and OCR readings rather than trusting one dpi setting to fix everything on the page.</p>
-<p>Typical loop: run with <code>--json</code>, find suspect pages in <code>pageStats</code>, <code>md-from-pdf render</code> them, then
+<p>Typical loop: run with <code>--json</code>, find suspect pages in <code>pageStats</code>, <code>pdf-to-md render</code> them, then
 re-extract just those pages with <code>--pages</code> and an adjusted flag — or use <code>--format=raw</code> to get the
 full <code>Analysis</code> (words + blocks + report) and converge programmatically.</p>
 <h2 id="for-ai-agents" class="tsd-anchor-link">For AI agents<a href="#for-ai-agents" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
-<pre><code class="bash"><span class="hl-0">npx</span><span class="hl-1"> </span><span class="hl-2">skills</span><span class="hl-1"> </span><span class="hl-2">add</span><span class="hl-1"> </span><span class="hl-2">kmalakoff/md-from-pdf</span><span class="hl-1">   </span><span class="hl-3"># -g for global, -a claude-code to target</span>
+<pre><code class="bash"><span class="hl-0">npx</span><span class="hl-1"> </span><span class="hl-2">skills</span><span class="hl-1"> </span><span class="hl-2">add</span><span class="hl-1"> </span><span class="hl-2">kmalakoff/pdf-to-md</span><span class="hl-1">   </span><span class="hl-3"># -g for global, -a claude-code to target</span>
 </code><button type="button">Copy</button></pre>
 
-<p>One skill: <code>md-from-pdf</code> for driving the QA loop above (reading <code>pageStats</code>, rendering pages as
+<p>One skill: <code>pdf-to-md</code> for driving the QA loop above (reading <code>pageStats</code>, rendering pages as
 ground truth, targeted re-extraction, the severity-1 audit, and the <code>&gt; [floats]</code> / <code>&gt; [review: ...]</code> markers) instead of trusting the first conversion.</p>
 <h2 id="development" class="tsd-anchor-link">Development<a href="#development" aria-label="Permalink" class="tsd-anchor-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="assets/icons.svg#icon-anchor"></use></svg></a></h2>
 <pre><code class="bash"><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">run</span><span class="hl-1"> </span><span class="hl-2">build</span><span class="hl-1">     </span><span class="hl-3"># tsds build -&gt; dist/cjs + dist/esm (pretest step; plain `npm test` builds first)</span><br/><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">test</span><span class="hl-1">          </span><span class="hl-3"># synthetic fixtures (ground truth by construction), a fetched+sha256-pinned</span><br/><span class="hl-1">                   </span><span class="hl-3"># public corpus (skips offline), real engine runs, plus self-skipping</span><br/><span class="hl-1">                   </span><span class="hl-3"># private-document extras when available locally</span><br/><span class="hl-0">npm</span><span class="hl-1"> </span><span class="hl-2">run</span><span class="hl-1"> </span><span class="hl-2">prepublishOnly</span><span class="hl-1">   </span><span class="hl-3"># tsds validate: build + biome + depcheck + docs</span>
@@ -189,7 +189,7 @@ before Node 22. Don't lower this floor without re-running that measurement.</p>
 <div class="tsd-theme-toggle"><label class="settings-label" for="tsd-theme">Theme</label><select id="tsd-theme"><option value="os">OS</option><option value="light">Light</option><option value="dark">Dark</option></select></div></div></details></div>
 <details open class="tsd-accordion tsd-page-navigation"><summary class="tsd-accordion-summary"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><use href="assets/icons.svg#icon-chevronDown"></use></svg>
 <h3>On This Page</h3></summary>
-<div class="tsd-accordion-details"><a href="#md-from-pdf"><span>md-<wbr/>from-<wbr/>pdf</span></a>
+<div class="tsd-accordion-details"><a href="#pdf-to-md"><span>pdf-<wbr/>to-<wbr/>md</span></a>
 <ul>
 <li><a href="#cli"><span>CLI</span></a></li>
 <li><a href="#library"><span>Library</span></a></li>
@@ -198,7 +198,7 @@ before Node 22. Don't lower this floor without re-running that measurement.</p>
 <li><a href="#for-ai-agents"><span>For <wbr/>AI agents</span></a></li>
 <li><a href="#development"><span>Development</span></a></li></ul></div></details></div>
 <div class="site-menu">
-<nav class="tsd-navigation"><a href="modules.html">md-from-pdf</a>
+<nav class="tsd-navigation"><a href="modules.html">@effortlessmotion/pdf-to-md</a>
 <ul class="tsd-small-nested-navigation" id="tsd-nav-container">
 <li>Loading...</li></ul></nav></div></div></div><footer>
 <p class="tsd-generator">Generated using <a href="https://typedoc.org/" target="_blank">TypeDoc</a></p></footer>
