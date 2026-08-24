@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+plans/
+*.traineddata
+dist/
+docs/
+.tmp/
+.cache/
+*.tgz
+.archive/
+
+# agents
+.agents/
+AGENTS.md
+.claude/
+CLAUDE.md

@@ -1,0 +1,389 @@
+{
+  "engine": "scribe",
+  "page": "ocr-single-p1",
+  "openMs": 395,
+  "ms": 1025,
+  "wordCount": 38,
+  "words": [
+    {
+      "text": "Jzcbwlns",
+      "conf": 100,
+      "bbox": {
+        "left": 254,
+        "top": 190,
+        "right": 1216,
+        "bottom": 376
+      }
+    },
+    {
+      "text": "Ttshsop",
+      "conf": 100,
+      "bbox": {
+        "left": 1294,
+        "top": 190,
+        "right": 2068,
+        "bottom": 376
+      }
+    },
+    {
+      "text": "Ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 242,
+        "top": 406,
+        "right": 374,
+        "bottom": 466
+      }
+    },
+    {
+      "text": "qxsm",
+      "conf": 100,
+      "bbox": {
+        "left": 402,
+        "top": 406,
+        "right": 560,
+        "bottom": 466
+      }
+    },
+    {
+      "text": "ostvnw",
+      "conf": 100,
+      "bbox": {
+        "left": 588,
+        "top": 406,
+        "right": 790,
+        "bottom": 482
+      }
+    },
+    {
+      "text": "rxzunojei",
+      "conf": 100,
+      "bbox": {
+        "left": 816,
+        "top": 406,
+        "right": 1136,
+        "bottom": 466
+      }
+    },
+    {
+      "text": "pzbsgtl",
+      "conf": 100,
+      "bbox": {
+        "left": 1170,
+        "top": 406,
+        "right": 1448,
+        "bottom": 466
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 242,
+        "top": 518,
+        "right": 348,
+        "bottom": 578
+      }
+    },
+    {
+      "text": "tqlbnkv",
+      "conf": 100,
+      "bbox": {
+        "left": 378,
+        "top": 518,
+        "right": 656,
+        "bottom": 594
+      }
+    },
+    {
+      "text": "dtfkny",
+      "conf": 100,
+      "bbox": {
+        "left": 688,
+        "top": 518,
+        "right": 912,
+        "bottom": 578
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 942,
+        "top": 518,
+        "right": 1066,
+        "bottom": 578
+      }
+    },
+    {
+      "text": "pecl",
+      "conf": 100,
+      "bbox": {
+        "left": 1098,
+        "top": 518,
+        "right": 1242,
+        "bottom": 594
+      }
+    },
+    {
+      "text": "mnsom.",
+      "conf": 100,
+      "bbox": {
+        "left": 1268,
+        "top": 522,
+        "right": 1460,
+        "bottom": 578
+      }
+    },
+    {
+      "text": "Cosph",
+      "conf": 100,
+      "bbox": {
+        "left": 248,
+        "top": 1190,
+        "right": 442,
+        "bottom": 1266
+      }
+    },
+    {
+      "text": "tnodk",
+      "conf": 100,
+      "bbox": {
+        "left": 472,
+        "top": 1190,
+        "right": 638,
+        "bottom": 1250
+      }
+    },
+    {
+      "text": "txana",
+      "conf": 100,
+      "bbox": {
+        "left": 668,
+        "top": 1190,
+        "right": 878,
+        "bottom": 1250
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 906,
+        "top": 1206,
+        "right": 944,
+        "bottom": 1250
+      }
+    },
+    {
+      "text": "ibvul",
+      "conf": 100,
+      "bbox": {
+        "left": 972,
+        "top": 1190,
+        "right": 1164,
+        "bottom": 1266
+      }
+    },
+    {
+      "text": "zq",
+      "conf": 100,
+      "bbox": {
+        "left": 1190,
+        "top": 1190,
+        "right": 1252,
+        "bottom": 1250
+      }
+    },
+    {
+      "text": "tkmrl-",
+      "conf": 0,
+      "bbox": {
+        "left": 1278,
+        "top": 1194,
+        "right": 1476,
+        "bottom": 1250
+      }
+    },
+    {
+      "text": "vzc",
+      "conf": 0,
+      "bbox": {
+        "left": 246,
+        "top": 1302,
+        "right": 338,
+        "bottom": 1362
+      }
+    },
+    {
+      "text": "gdfgzr",
+      "conf": 100,
+      "bbox": {
+        "left": 368,
+        "top": 1318,
+        "right": 608,
+        "bottom": 1378
+      }
+    },
+    {
+      "text": "flcztn",
+      "conf": 100,
+      "bbox": {
+        "left": 636,
+        "top": 1302,
+        "right": 854,
+        "bottom": 1362
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 882,
+        "top": 1302,
+        "right": 988,
+        "bottom": 1362
+      }
+    },
+    {
+      "text": "kotdv",
+      "conf": 100,
+      "bbox": {
+        "left": 1018,
+        "top": 1306,
+        "right": 1206,
+        "bottom": 1378
+      }
+    },
+    {
+      "text": "hcssc.",
+      "conf": 100,
+      "bbox": {
+        "left": 1234,
+        "top": 1302,
+        "right": 1434,
+        "bottom": 1362
+      }
+    },
+    {
+      "text": "Yckkgxx",
+      "conf": 100,
+      "bbox": {
+        "left": 246,
+        "top": 1974,
+        "right": 488,
+        "bottom": 2034
+      }
+    },
+    {
+      "text": "tvlak",
+      "conf": 100,
+      "bbox": {
+        "left": 516,
+        "top": 1974,
+        "right": 682,
+        "bottom": 2034
+      }
+    },
+    {
+      "text": "nweuiel",
+      "conf": 100,
+      "bbox": {
+        "left": 710,
+        "top": 1974,
+        "right": 932,
+        "bottom": 2034
+      }
+    },
+    {
+      "text": "dkvgbb",
+      "conf": 100,
+      "bbox": {
+        "left": 964,
+        "top": 1974,
+        "right": 1176,
+        "bottom": 2050
+      }
+    },
+    {
+      "text": "cdtzn",
+      "conf": 100,
+      "bbox": {
+        "left": 1204,
+        "top": 1974,
+        "right": 1414,
+        "bottom": 2034
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 242,
+        "top": 2086,
+        "right": 348,
+        "bottom": 2146
+      }
+    },
+    {
+      "text": "pukz",
+      "conf": 100,
+      "bbox": {
+        "left": 376,
+        "top": 2102,
+        "right": 566,
+        "bottom": 2162
+      }
+    },
+    {
+      "text": "xk",
+      "conf": 100,
+      "bbox": {
+        "left": 596,
+        "top": 2102,
+        "right": 672,
+        "bottom": 2146
+      }
+    },
+    {
+      "text": "elneud",
+      "conf": 100,
+      "bbox": {
+        "left": 704,
+        "top": 2086,
+        "right": 908,
+        "bottom": 2146
+      }
+    },
+    {
+      "text": "ozaqfa",
+      "conf": 100,
+      "bbox": {
+        "left": 938,
+        "top": 2086,
+        "right": 1186,
+        "bottom": 2162
+      }
+    },
+    {
+      "text": "diace",
+      "conf": 100,
+      "bbox": {
+        "left": 1216,
+        "top": 2086,
+        "right": 1368,
+        "bottom": 2146
+      }
+    },
+    {
+      "text": "ufnr.",
+      "conf": 100,
+      "bbox": {
+        "left": 1394,
+        "top": 2102,
+        "right": 1562,
+        "bottom": 2162
+      }
+    }
+  ]
+}

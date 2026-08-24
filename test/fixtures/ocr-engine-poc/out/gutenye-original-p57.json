@@ -1,0 +1,821 @@
+{
+  "engine": "gutenye",
+  "page": "original-p57",
+  "ms": 1801,
+  "lines": [
+    {
+      "text": "PASSIVE",
+      "mean": 0.9881116322108677,
+      "box": [
+        [
+          71,
+          322
+        ],
+        [
+          1231,
+          320
+        ],
+        [
+          1231,
+          570
+        ],
+        [
+          71,
+          572
+        ]
+      ]
+    },
+    {
+      "text": "BRAIN",
+      "mean": 0.9947826623916626,
+      "box": [
+        [
+          75,
+          623
+        ],
+        [
+          907,
+          623
+        ],
+        [
+          907,
+          870
+        ],
+        [
+          75,
+          870
+        ]
+      ]
+    },
+    {
+      "text": "Are you feeling overwhelmed by the ideas meant for you. Try to avoid constantly",
+      "mean": 0.9713446425005077,
+      "box": [
+        [
+          92,
+          945
+        ],
+        [
+          2281,
+          950
+        ],
+        [
+          2281,
+          1002
+        ],
+        [
+          92,
+          1009
+        ]
+      ]
+    },
+    {
+      "text": "pressure to be consistent in everything you observing other people's issues and thinking",
+      "mean": 0.982712691748243,
+      "box": [
+        [
+          93,
+          1015
+        ],
+        [
+          2287,
+          1016
+        ],
+        [
+          2287,
+          1070
+        ],
+        [
+          93,
+          1072
+        ]
+      ]
+    },
+    {
+      "text": "do? It's understandable to feel that way, as too much. Instead, give yourself the chance",
+      "mean": 0.9791626900859791,
+      "box": [
+        [
+          95,
+          1075
+        ],
+        [
+          2287,
+          1083
+        ],
+        [
+          2287,
+          1134
+        ],
+        [
+          95,
+          1129
+        ]
+      ]
+    },
+    {
+      "text": "society often tells us that we need to stick to to relax and enjoy life to its fullest.",
+      "mean": 0.9921430984092292,
+      "box": [
+        [
+          102,
+          1152
+        ],
+        [
+          2051,
+          1149
+        ],
+        [
+          2051,
+          1198
+        ],
+        [
+          102,
+          1197
+        ]
+      ]
+    },
+    {
+      "text": "a certain routine in order to be successful.",
+      "mean": 0.9912924048575488,
+      "box": [
+        [
+          98,
+          1216
+        ],
+        [
+          1127,
+          1216
+        ],
+        [
+          1127,
+          1259
+        ],
+        [
+          98,
+          1259
+        ]
+      ]
+    },
+    {
+      "text": "The truth is that you don't have to be super It's also  important  to remember that",
+      "mean": 0.9515031373306311,
+      "box": [
+        [
+          99,
+          1276
+        ],
+        [
+          2291,
+          1279
+        ],
+        [
+          2291,
+          1327
+        ],
+        [
+          99,
+          1328
+        ]
+      ]
+    },
+    {
+      "text": "consistent in order to achieve your goals! In inconsistency isn't a dirty word. You have",
+      "mean": 0.9924941746015397,
+      "box": [
+        [
+          96,
+          1346
+        ],
+        [
+          2288,
+          1344
+        ],
+        [
+          2288,
+          1398
+        ],
+        [
+          96,
+          1402
+        ]
+      ]
+    },
+    {
+      "text": "fact, being too rigid and forcing yourself exactly what you need to show up in the",
+      "mean": 0.9806413998206456,
+      "box": [
+        [
+          90,
+          1409
+        ],
+        [
+          2288,
+          1411
+        ],
+        [
+          2288,
+          1465
+        ],
+        [
+          90,
+          1465
+        ]
+      ]
+    },
+    {
+      "text": "into a certain routine can actually drain perfect way for your gifts and purpose to",
+      "mean": 0.9878124468279493,
+      "box": [
+        [
+          90,
+          1476
+        ],
+        [
+          2287,
+          1480
+        ],
+        [
+          2287,
+          1532
+        ],
+        [
+          90,
+          1525
+        ]
+      ]
+    },
+    {
+      "text": "your energy I and take away from n your develop.",
+      "mean": 0.9455629033301814,
+      "box": [
+        [
+          88,
+          1551
+        ],
+        [
+          1441,
+          1550
+        ],
+        [
+          1438,
+          1600
+        ],
+        [
+          88,
+          1599
+        ]
+      ]
+    },
+    {
+      "text": "enjoyment of life.",
+      "mean": 0.9842662049664391,
+      "box": [
+        [
+          98,
+          1615
+        ],
+        [
+          501,
+          1610
+        ],
+        [
+          501,
+          1654
+        ],
+        [
+          98,
+          1659
+        ]
+      ]
+    },
+    {
+      "text": "For example, if you value spending quality",
+      "mean": 0.9918126364549001,
+      "box": [
+        [
+          1249,
+          1672
+        ],
+        [
+          2282,
+          1676
+        ],
+        [
+          2282,
+          1729
+        ],
+        [
+          1249,
+          1725
+        ]
+      ]
+    },
+    {
+      "text": "Instead of trying to adhere to a strict, time with your loved ones, you might be",
+      "mean": 0.9800901944247575,
+      "box": [
+        [
+          93,
+          1738
+        ],
+        [
+          2289,
+          1740
+        ],
+        [
+          2289,
+          1797
+        ],
+        [
+          93,
+          1794
+        ]
+      ]
+    },
+    {
+      "text": "\"forced\" routine, try embracing the idea that inconsistent in making sure you carve out",
+      "mean": 0.9706712422332143,
+      "box": [
+        [
+          100,
+          1804
+        ],
+        [
+          2294,
+          1808
+        ],
+        [
+          2294,
+          1862
+        ],
+        [
+          100,
+          1855
+        ]
+      ]
+    },
+    {
+      "text": "you have exactly the type of consistency time for that each week. Or if you prioritize",
+      "mean": 0.9892053293685118,
+      "box": [
+        [
+          88,
+          1869
+        ],
+        [
+          2286,
+          1874
+        ],
+        [
+          2286,
+          1926
+        ],
+        [
+          88,
+          1929
+        ]
+      ]
+    },
+    {
+      "text": "that works for you. This might mean that your health, you might lack consistency in",
+      "mean": 0.99026906827376,
+      "box": [
+        [
+          95,
+          1937
+        ],
+        [
+          2290,
+          1935
+        ],
+        [
+          2290,
+          1991
+        ],
+        [
+          95,
+          1988
+        ]
+      ]
+    },
+    {
+      "text": "one day you feel like having breakfast at getting proper sleep, exercise, or having a",
+      "mean": 0.9918242587126322,
+      "box": [
+        [
+          93,
+          2004
+        ],
+        [
+          2290,
+          2002
+        ],
+        [
+          2290,
+          2057
+        ],
+        [
+          93,
+          2057
+        ]
+      ]
+    },
+    {
+      "text": "7am and the next day you want it at 11am. healthy diet. Nevertheless, you will find the",
+      "mean": 0.9747985547312553,
+      "box": [
+        [
+          97,
+          2067
+        ],
+        [
+          2288,
+          2066
+        ],
+        [
+          2288,
+          2121
+        ],
+        [
+          97,
+          2122
+        ]
+      ]
+    },
+    {
+      "text": "motivation to do what feels good to you.",
+      "mean": 0.978835342824459,
+      "box": [
+        [
+          1253,
+          2134
+        ],
+        [
+          2172,
+          2142
+        ],
+        [
+          2172,
+          2189
+        ],
+        [
+          1253,
+          2181
+        ]
+      ]
+    },
+    {
+      "text": "Or1 maybe one week you're really into",
+      "mean": 0.9677763657615734,
+      "box": [
+        [
+          99,
+          2203
+        ],
+        [
+          1131,
+          2204
+        ],
+        [
+          1131,
+          2249
+        ],
+        [
+          99,
+          2247
+        ]
+      ]
+    },
+    {
+      "text": "meditation and the next week you're not. Don't be afraid to let go of the idea that you",
+      "mean": 0.9746958395385223,
+      "box": [
+        [
+          100,
+          2266
+        ],
+        [
+          2286,
+          2270
+        ],
+        [
+          2286,
+          2319
+        ],
+        [
+          100,
+          2312
+        ]
+      ]
+    },
+    {
+      "text": "That's totally fine! The key is to be engaged have to be super consistent in everything",
+      "mean": 0.9779044323497348,
+      "box": [
+        [
+          101,
+          2333
+        ],
+        [
+          2286,
+          2335
+        ],
+        [
+          2286,
+          2387
+        ],
+        [
+          101,
+          2380
+        ]
+      ]
+    },
+    {
+      "text": "in the experience you're having and to take you do. Embrace your unique way of doing",
+      "mean": 0.9669544984088387,
+      "box": [
+        [
+          96,
+          2399
+        ],
+        [
+          2288,
+          2399
+        ],
+        [
+          2288,
+          2454
+        ],
+        [
+          96,
+          2449
+        ]
+      ]
+    },
+    {
+      "text": "what you need from it. And when you're no things and trust that you have exactly the",
+      "mean": 0.9783810653337619,
+      "box": [
+        [
+          99,
+          2465
+        ],
+        [
+          2288,
+          2465
+        ],
+        [
+          2288,
+          2516
+        ],
+        [
+          99,
+          2516
+        ]
+      ]
+    },
+    {
+      "text": "longer interested or excited about type of inconsistency that works for you.",
+      "mean": 0.9971654323969892,
+      "box": [
+        [
+          94,
+          2532
+        ],
+        [
+          2186,
+          2530
+        ],
+        [
+          2186,
+          2584
+        ],
+        [
+          93,
+          2584
+        ]
+      ]
+    },
+    {
+      "text": "something, it's okay to let go.",
+      "mean": 0.9880986559775568,
+      "box": [
+        [
+          94,
+          2594
+        ],
+        [
+          782,
+          2601
+        ],
+        [
+          782,
+          2653
+        ],
+        [
+          94,
+          2646
+        ]
+      ]
+    },
+    {
+      "text": "And remember, it's okay to take breaks and",
+      "mean": 0.9773128912562415,
+      "box": [
+        [
+          1254,
+          2661
+        ],
+        [
+          2286,
+          2663
+        ],
+        [
+          2286,
+          2713
+        ],
+        [
+          1254,
+          2711
+        ]
+      ]
+    },
+    {
+      "text": "Another important thing to consider is that enjoy life to the fullest. Trust the universe so",
+      "mean": 0.9778753871372504,
+      "box": [
+        [
+          99,
+          2727
+        ],
+        [
+          2291,
+          2727
+        ],
+        [
+          2291,
+          2778
+        ],
+        [
+          99,
+          2778
+        ]
+      ]
+    },
+    {
+      "text": "you have what's called a passive brain. This that you have the consistency you need to",
+      "mean": 0.9877255282090138,
+      "box": [
+        [
+          91,
+          2796
+        ],
+        [
+          2289,
+          2794
+        ],
+        [
+          2289,
+          2847
+        ],
+        [
+          91,
+          2849
+        ]
+      ]
+    },
+    {
+      "text": "means that it's not healthy for you to be achieve the results you want. And don't",
+      "mean": 0.9850545120358541,
+      "box": [
+        [
+          90,
+          2859
+        ],
+        [
+          2292,
+          2856
+        ],
+        [
+          2292,
+          2912
+        ],
+        [
+          90,
+          2909
+        ]
+      ]
+    },
+    {
+      "text": "thinking constantly. punish yourself or have negative thoughts if",
+      "mean": 0.9965840508992021,
+      "box": [
+        [
+          98,
+          2925
+        ],
+        [
+          2290,
+          2923
+        ],
+        [
+          2290,
+          2975
+        ],
+        [
+          98,
+          2973
+        ]
+      ]
+    },
+    {
+      "text": "you feel you're not being consistent enough.",
+      "mean": 0.9628177759322253,
+      "box": [
+        [
+          1248,
+          2994
+        ],
+        [
+          2283,
+          2991
+        ],
+        [
+          2283,
+          3042
+        ],
+        [
+          1248,
+          3045
+        ]
+      ]
+    },
+    {
+      "text": "So, take breaks from your phone, social Just let go and trust that you're on the right",
+      "mean": 0.9707898036592382,
+      "box": [
+        [
+          95,
+          3055
+        ],
+        [
+          2284,
+          3060
+        ],
+        [
+          2284,
+          3108
+        ],
+        [
+          95,
+          3113
+        ]
+      ]
+    },
+    {
+      "text": "media, and computer to give your mind path.",
+      "mean": 0.9858632981777191,
+      "box": [
+        [
+          98,
+          3120
+        ],
+        [
+          1367,
+          3120
+        ],
+        [
+          1370,
+          3171
+        ],
+        [
+          98,
+          3170
+        ]
+      ]
+    },
+    {
+      "text": "some space to rest, and connect with the",
+      "mean": 0.9958281487226486,
+      "box": [
+        [
+          94,
+          3196
+        ],
+        [
+          1037,
+          3190
+        ],
+        [
+          1037,
+          3233
+        ],
+        [
+          94,
+          3239
+        ]
+      ]
+    }
+  ]
+}

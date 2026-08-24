@@ -1,0 +1,4359 @@
+{
+  "engine": "scribe",
+  "page": "original-p10",
+  "openMs": 1065,
+  "ms": 7641,
+  "wordCount": 435,
+  "words": [
+    {
+      "text": "HTWDY",
+      "conf": 100,
+      "bbox": {
+        "left": 57,
+        "top": 59,
+        "right": 168,
+        "bottom": 84
+      }
+    },
+    {
+      "text": "AXNSEQXE",
+      "conf": 100,
+      "bbox": {
+        "left": 179,
+        "top": 58,
+        "right": 355,
+        "bottom": 85
+      }
+    },
+    {
+      "text": "Sj",
+      "conf": 0,
+      "bbox": {
+        "left": 934,
+        "top": 170,
+        "right": 960,
+        "bottom": 187
+      }
+    },
+    {
+      "text": "6",
+      "conf": 0,
+      "bbox": {
+        "left": 923,
+        "top": 183,
+        "right": 940,
+        "bottom": 198
+      }
+    },
+    {
+      "text": "<>",
+      "conf": 0,
+      "bbox": {
+        "left": 903,
+        "top": 193,
+        "right": 929,
+        "bottom": 218
+      }
+    },
+    {
+      "text": "p",
+      "conf": 0,
+      "bbox": {
+        "left": 896,
+        "top": 228,
+        "right": 912,
+        "bottom": 241
+      }
+    },
+    {
+      "text": "=",
+      "conf": 0,
+      "bbox": {
+        "left": 884,
+        "top": 244,
+        "right": 907,
+        "bottom": 258
+      }
+    },
+    {
+      "text": "-",
+      "conf": 0,
+      "bbox": {
+        "left": 882,
+        "top": 260,
+        "right": 903,
+        "bottom": 274
+      }
+    },
+    {
+      "text": "T",
+      "conf": 0,
+      "bbox": {
+        "left": 102,
+        "top": 312,
+        "right": 275,
+        "bottom": 510
+      }
+    },
+    {
+      "text": "8",
+      "conf": 0,
+      "bbox": {
+        "left": 300,
+        "top": 308,
+        "right": 494,
+        "bottom": 515
+      }
+    },
+    {
+      "text": "A’",
+      "conf": 0,
+      "bbox": {
+        "left": 526,
+        "top": 312,
+        "right": 766,
+        "bottom": 510
+      }
+    },
+    {
+      "text": "PEPDGF",
+      "conf": 100,
+      "bbox": {
+        "left": 102,
+        "top": 629,
+        "right": 977,
+        "bottom": 835
+      }
+    },
+    {
+      "text": "Xk",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 1976,
+        "right": 145,
+        "bottom": 2015
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 169,
+        "top": 1989,
+        "right": 193,
+        "bottom": 2015
+      }
+    },
+    {
+      "text": "Xjhypgeqduc",
+      "conf": 100,
+      "bbox": {
+        "left": 217,
+        "top": 1976,
+        "right": 487,
+        "bottom": 2027
+      }
+    },
+    {
+      "text": "Mbpefxncq,",
+      "conf": 100,
+      "bbox": {
+        "left": 510,
+        "top": 1975,
+        "right": 753,
+        "bottom": 2023
+      }
+    },
+    {
+      "text": "nx’i",
+      "conf": 100,
+      "bbox": {
+        "left": 778,
+        "top": 1975,
+        "right": 844,
+        "bottom": 2015
+      }
+    },
+    {
+      "text": "ljykbhglvd",
+      "conf": 100,
+      "bbox": {
+        "left": 868,
+        "top": 1976,
+        "right": 1111,
+        "bottom": 2027
+      }
+    },
+    {
+      "text": "qtuu",
+      "conf": 100,
+      "bbox": {
+        "left": 84,
+        "top": 2041,
+        "right": 167,
+        "bottom": 2080
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 193,
+        "top": 2045,
+        "right": 235,
+        "bottom": 2080
+      }
+    },
+    {
+      "text": "manpq",
+      "conf": 100,
+      "bbox": {
+        "left": 263,
+        "top": 2045,
+        "right": 369,
+        "bottom": 2080
+      }
+    },
+    {
+      "text": "kpdkynyam",
+      "conf": 100,
+      "bbox": {
+        "left": 396,
+        "top": 2041,
+        "right": 632,
+        "bottom": 2093
+      }
+    },
+    {
+      "text": "vpatzzf",
+      "conf": 100,
+      "bbox": {
+        "left": 656,
+        "top": 2041,
+        "right": 832,
+        "bottom": 2080
+      }
+    },
+    {
+      "text": "jvirxcehzhm",
+      "conf": 100,
+      "bbox": {
+        "left": 859,
+        "top": 2041,
+        "right": 1111,
+        "bottom": 2093
+      }
+    },
+    {
+      "text": "bmwfwipqj",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 2106,
+        "right": 284,
+        "bottom": 2158
+      }
+    },
+    {
+      "text": "nx.",
+      "conf": 100,
+      "bbox": {
+        "left": 305,
+        "top": 2108,
+        "right": 347,
+        "bottom": 2146
+      }
+    },
+    {
+      "text": "Tqb,",
+      "conf": 100,
+      "bbox": {
+        "left": 372,
+        "top": 2106,
+        "right": 490,
+        "bottom": 2153
+      }
+    },
+    {
+      "text": "B",
+      "conf": 100,
+      "bbox": {
+        "left": 516,
+        "top": 2106,
+        "right": 531,
+        "bottom": 2145
+      }
+    },
+    {
+      "text": "amhk",
+      "conf": 100,
+      "bbox": {
+        "left": 553,
+        "top": 2106,
+        "right": 675,
+        "bottom": 2146
+      }
+    },
+    {
+      "text": "fejf",
+      "conf": 100,
+      "bbox": {
+        "left": 697,
+        "top": 2106,
+        "right": 779,
+        "bottom": 2146
+      }
+    },
+    {
+      "text": "luine",
+      "conf": 100,
+      "bbox": {
+        "left": 802,
+        "top": 2106,
+        "right": 932,
+        "bottom": 2158
+      }
+    },
+    {
+      "text": "nfpb",
+      "conf": 100,
+      "bbox": {
+        "left": 955,
+        "top": 2119,
+        "right": 1066,
+        "bottom": 2146
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 1088,
+        "top": 2120,
+        "right": 1112,
+        "bottom": 2146
+      }
+    },
+    {
+      "text": "kiywys",
+      "conf": 100,
+      "bbox": {
+        "left": 84,
+        "top": 2172,
+        "right": 186,
+        "bottom": 2211
+      }
+    },
+    {
+      "text": "ilaleoqnzcmszzmf",
+      "conf": 100,
+      "bbox": {
+        "left": 232,
+        "top": 2173,
+        "right": 594,
+        "bottom": 2211
+      }
+    },
+    {
+      "text": "xm",
+      "conf": 100,
+      "bbox": {
+        "left": 639,
+        "top": 2175,
+        "right": 681,
+        "bottom": 2211
+      }
+    },
+    {
+      "text": "qvaxa.",
+      "conf": 100,
+      "bbox": {
+        "left": 725,
+        "top": 2171,
+        "right": 831,
+        "bottom": 2211
+      }
+    },
+    {
+      "text": "Pliog",
+      "conf": 100,
+      "bbox": {
+        "left": 879,
+        "top": 2171,
+        "right": 1000,
+        "bottom": 2211
+      }
+    },
+    {
+      "text": "cln,",
+      "conf": 100,
+      "bbox": {
+        "left": 1044,
+        "top": 2172,
+        "right": 1109,
+        "bottom": 2219
+      }
+    },
+    {
+      "text": "ebej’d",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 2237,
+        "right": 216,
+        "bottom": 2277
+      }
+    },
+    {
+      "text": "ic",
+      "conf": 100,
+      "bbox": {
+        "left": 246,
+        "top": 2251,
+        "right": 309,
+        "bottom": 2277
+      }
+    },
+    {
+      "text": "nccguu",
+      "conf": 100,
+      "bbox": {
+        "left": 342,
+        "top": 2238,
+        "right": 499,
+        "bottom": 2289
+      }
+    },
+    {
+      "text": "qcjt",
+      "conf": 100,
+      "bbox": {
+        "left": 531,
+        "top": 2238,
+        "right": 616,
+        "bottom": 2277
+      }
+    },
+    {
+      "text": "llcy",
+      "conf": 100,
+      "bbox": {
+        "left": 647,
+        "top": 2238,
+        "right": 738,
+        "bottom": 2277
+      }
+    },
+    {
+      "text": "ic",
+      "conf": 100,
+      "bbox": {
+        "left": 768,
+        "top": 2251,
+        "right": 831,
+        "bottom": 2277
+      }
+    },
+    {
+      "text": "eotcws",
+      "conf": 100,
+      "bbox": {
+        "left": 864,
+        "top": 2238,
+        "right": 1010,
+        "bottom": 2277
+      }
+    },
+    {
+      "text": "yiz",
+      "conf": 100,
+      "bbox": {
+        "left": 1043,
+        "top": 2251,
+        "right": 1110,
+        "bottom": 2277
+      }
+    },
+    {
+      "text": "wtuwmt",
+      "conf": 100,
+      "bbox": {
+        "left": 84,
+        "top": 2303,
+        "right": 225,
+        "bottom": 2354
+      }
+    },
+    {
+      "text": "zjmtzmz",
+      "conf": 100,
+      "bbox": {
+        "left": 248,
+        "top": 2303,
+        "right": 429,
+        "bottom": 2354
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 451,
+        "top": 2307,
+        "right": 493,
+        "bottom": 2342
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 516,
+        "top": 2303,
+        "right": 584,
+        "bottom": 2342
+      }
+    },
+    {
+      "text": "qmu,",
+      "conf": 100,
+      "bbox": {
+        "left": 608,
+        "top": 2303,
+        "right": 699,
+        "bottom": 2350
+      }
+    },
+    {
+      "text": "bc",
+      "conf": 100,
+      "bbox": {
+        "left": 724,
+        "top": 2316,
+        "right": 775,
+        "bottom": 2342
+      }
+    },
+    {
+      "text": "kuoqic",
+      "conf": 100,
+      "bbox": {
+        "left": 799,
+        "top": 2307,
+        "right": 950,
+        "bottom": 2342
+      }
+    },
+    {
+      "text": "xmhh?",
+      "conf": 100,
+      "bbox": {
+        "left": 971,
+        "top": 2303,
+        "right": 1110,
+        "bottom": 2342
+      }
+    },
+    {
+      "text": "Qzz",
+      "conf": 100,
+      "bbox": {
+        "left": 86,
+        "top": 2368,
+        "right": 166,
+        "bottom": 2408
+      }
+    },
+    {
+      "text": "lqds",
+      "conf": 100,
+      "bbox": {
+        "left": 194,
+        "top": 2368,
+        "right": 315,
+        "bottom": 2407
+      }
+    },
+    {
+      "text": "nx",
+      "conf": 100,
+      "bbox": {
+        "left": 345,
+        "top": 2370,
+        "right": 374,
+        "bottom": 2408
+      }
+    },
+    {
+      "text": "ryedx",
+      "conf": 100,
+      "bbox": {
+        "left": 403,
+        "top": 2381,
+        "right": 540,
+        "bottom": 2407
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 568,
+        "top": 2372,
+        "right": 610,
+        "bottom": 2408
+      }
+    },
+    {
+      "text": "ewwz",
+      "conf": 100,
+      "bbox": {
+        "left": 638,
+        "top": 2381,
+        "right": 742,
+        "bottom": 2420
+      }
+    },
+    {
+      "text": "qnhgox",
+      "conf": 100,
+      "bbox": {
+        "left": 770,
+        "top": 2370,
+        "right": 919,
+        "bottom": 2419
+      }
+    },
+    {
+      "text": "okj",
+      "conf": 100,
+      "bbox": {
+        "left": 947,
+        "top": 2381,
+        "right": 1042,
+        "bottom": 2420
+      }
+    },
+    {
+      "text": "zq",
+      "conf": 100,
+      "bbox": {
+        "left": 1071,
+        "top": 2368,
+        "right": 1114,
+        "bottom": 2407
+      }
+    },
+    {
+      "text": "gtdwmqnne",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 2435,
+        "right": 302,
+        "bottom": 2485
+      }
+    },
+    {
+      "text": "wz",
+      "conf": 100,
+      "bbox": {
+        "left": 322,
+        "top": 2435,
+        "right": 362,
+        "bottom": 2472
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 382,
+        "top": 2433,
+        "right": 451,
+        "bottom": 2473
+      }
+    },
+    {
+      "text": "wjtev,",
+      "conf": 100,
+      "bbox": {
+        "left": 472,
+        "top": 2433,
+        "right": 615,
+        "bottom": 2480
+      }
+    },
+    {
+      "text": "sfrqk’i",
+      "conf": 100,
+      "bbox": {
+        "left": 638,
+        "top": 2433,
+        "right": 790,
+        "bottom": 2473
+      }
+    },
+    {
+      "text": "wdroshrt",
+      "conf": 100,
+      "bbox": {
+        "left": 811,
+        "top": 2433,
+        "right": 990,
+        "bottom": 2485
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 1011,
+        "top": 2447,
+        "right": 1034,
+        "bottom": 2473
+      }
+    },
+    {
+      "text": "lyv",
+      "conf": 100,
+      "bbox": {
+        "left": 1054,
+        "top": 2433,
+        "right": 1111,
+        "bottom": 2473
+      }
+    },
+    {
+      "text": "zq",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 2498,
+        "right": 129,
+        "bottom": 2538
+      }
+    },
+    {
+      "text": "powoxm",
+      "conf": 100,
+      "bbox": {
+        "left": 144,
+        "top": 2499,
+        "right": 318,
+        "bottom": 2538
+      }
+    },
+    {
+      "text": "wz",
+      "conf": 100,
+      "bbox": {
+        "left": 337,
+        "top": 2500,
+        "right": 377,
+        "bottom": 2537
+      }
+    },
+    {
+      "text": "fejf",
+      "conf": 100,
+      "bbox": {
+        "left": 396,
+        "top": 2499,
+        "right": 478,
+        "bottom": 2538
+      }
+    },
+    {
+      "text": "xxxyjctlr",
+      "conf": 100,
+      "bbox": {
+        "left": 498,
+        "top": 2498,
+        "right": 691,
+        "bottom": 2538
+      }
+    },
+    {
+      "text": "gbydozmn.",
+      "conf": 100,
+      "bbox": {
+        "left": 711,
+        "top": 2499,
+        "right": 931,
+        "bottom": 2550
+      }
+    },
+    {
+      "text": "Yiz,",
+      "conf": 100,
+      "bbox": {
+        "left": 87,
+        "top": 2629,
+        "right": 177,
+        "bottom": 2677
+      }
+    },
+    {
+      "text": "xk",
+      "conf": 100,
+      "bbox": {
+        "left": 199,
+        "top": 2643,
+        "right": 245,
+        "bottom": 2669
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 265,
+        "top": 2643,
+        "right": 289,
+        "bottom": 2669
+      }
+    },
+    {
+      "text": "Xjhypgeqduc",
+      "conf": 100,
+      "bbox": {
+        "left": 309,
+        "top": 2630,
+        "right": 579,
+        "bottom": 2682
+      }
+    },
+    {
+      "text": "Mbpefxncq,",
+      "conf": 100,
+      "bbox": {
+        "left": 599,
+        "top": 2629,
+        "right": 841,
+        "bottom": 2677
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 862,
+        "top": 2643,
+        "right": 942,
+        "bottom": 2682
+      }
+    },
+    {
+      "text": "rwdi",
+      "conf": 100,
+      "bbox": {
+        "left": 962,
+        "top": 2630,
+        "right": 1067,
+        "bottom": 2669
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 1088,
+        "top": 2643,
+        "right": 1112,
+        "bottom": 2669
+      }
+    },
+    {
+      "text": "xhhag",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 2695,
+        "right": 213,
+        "bottom": 2735
+      }
+    },
+    {
+      "text": "rxlvz",
+      "conf": 100,
+      "bbox": {
+        "left": 232,
+        "top": 2709,
+        "right": 359,
+        "bottom": 2747
+      }
+    },
+    {
+      "text": "zq",
+      "conf": 100,
+      "bbox": {
+        "left": 379,
+        "top": 2695,
+        "right": 423,
+        "bottom": 2735
+      }
+    },
+    {
+      "text": "ubxozkryl",
+      "conf": 100,
+      "bbox": {
+        "left": 438,
+        "top": 2695,
+        "right": 681,
+        "bottom": 2747
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 701,
+        "top": 2695,
+        "right": 781,
+        "bottom": 2735
+      }
+    },
+    {
+      "text": "edbhgoxkj,",
+      "conf": 100,
+      "bbox": {
+        "left": 800,
+        "top": 2697,
+        "right": 1010,
+        "bottom": 2742
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1031,
+        "top": 2695,
+        "right": 1111,
+        "bottom": 2735
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 84,
+        "top": 2774,
+        "right": 165,
+        "bottom": 2812
+      }
+    },
+    {
+      "text": "pjxt",
+      "conf": 100,
+      "bbox": {
+        "left": 188,
+        "top": 2761,
+        "right": 279,
+        "bottom": 2800
+      }
+    },
+    {
+      "text": "qdxiahj",
+      "conf": 100,
+      "bbox": {
+        "left": 304,
+        "top": 2761,
+        "right": 478,
+        "bottom": 2812
+      }
+    },
+    {
+      "text": "zcpw",
+      "conf": 100,
+      "bbox": {
+        "left": 501,
+        "top": 2774,
+        "right": 613,
+        "bottom": 2800
+      }
+    },
+    {
+      "text": "uzjf",
+      "conf": 100,
+      "bbox": {
+        "left": 637,
+        "top": 2761,
+        "right": 738,
+        "bottom": 2800
+      }
+    },
+    {
+      "text": "aumtgb",
+      "conf": 100,
+      "bbox": {
+        "left": 762,
+        "top": 2762,
+        "right": 902,
+        "bottom": 2812
+      }
+    },
+    {
+      "text": "mtc",
+      "conf": 100,
+      "bbox": {
+        "left": 925,
+        "top": 2764,
+        "right": 995,
+        "bottom": 2800
+      }
+    },
+    {
+      "text": "uhd",
+      "conf": 100,
+      "bbox": {
+        "left": 1019,
+        "top": 2774,
+        "right": 1111,
+        "bottom": 2800
+      }
+    },
+    {
+      "text": "wtuwmt",
+      "conf": 100,
+      "bbox": {
+        "left": 84,
+        "top": 2826,
+        "right": 225,
+        "bottom": 2877
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 250,
+        "top": 2826,
+        "right": 330,
+        "bottom": 2865
+      }
+    },
+    {
+      "text": "bkmsvogco",
+      "conf": 100,
+      "bbox": {
+        "left": 354,
+        "top": 2826,
+        "right": 568,
+        "bottom": 2877
+      }
+    },
+    {
+      "text": "cln",
+      "conf": 100,
+      "bbox": {
+        "left": 592,
+        "top": 2826,
+        "right": 644,
+        "bottom": 2865
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 667,
+        "top": 2826,
+        "right": 736,
+        "bottom": 2865
+      }
+    },
+    {
+      "text": "xxxyjctlr",
+      "conf": 100,
+      "bbox": {
+        "left": 762,
+        "top": 2825,
+        "right": 955,
+        "bottom": 2865
+      }
+    },
+    {
+      "text": "rnmdhy",
+      "conf": 100,
+      "bbox": {
+        "left": 979,
+        "top": 2825,
+        "right": 1111,
+        "bottom": 2865
+      }
+    },
+    {
+      "text": "zq",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 2891,
+        "right": 129,
+        "bottom": 2930
+      }
+    },
+    {
+      "text": "xmhh",
+      "conf": 100,
+      "bbox": {
+        "left": 149,
+        "top": 2891,
+        "right": 263,
+        "bottom": 2930
+      }
+    },
+    {
+      "text": "yzwhbpdajs",
+      "conf": 100,
+      "bbox": {
+        "left": 286,
+        "top": 2891,
+        "right": 512,
+        "bottom": 2930
+      }
+    },
+    {
+      "text": "viw.",
+      "conf": 100,
+      "bbox": {
+        "left": 535,
+        "top": 2904,
+        "right": 629,
+        "bottom": 2943
+      }
+    },
+    {
+      "text": "Viw",
+      "conf": 100,
+      "bbox": {
+        "left": 656,
+        "top": 2891,
+        "right": 746,
+        "bottom": 2930
+      }
+    },
+    {
+      "text": "rwdi",
+      "conf": 100,
+      "bbox": {
+        "left": 770,
+        "top": 2891,
+        "right": 876,
+        "bottom": 2930
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 901,
+        "top": 2904,
+        "right": 924,
+        "bottom": 2930
+      }
+    },
+    {
+      "text": "yobfkyz",
+      "conf": 100,
+      "bbox": {
+        "left": 947,
+        "top": 2891,
+        "right": 1111,
+        "bottom": 2930
+      }
+    },
+    {
+      "text": "viuccbnhh",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 2958,
+        "right": 282,
+        "bottom": 3008
+      }
+    },
+    {
+      "text": "llcy",
+      "conf": 100,
+      "bbox": {
+        "left": 313,
+        "top": 2956,
+        "right": 403,
+        "bottom": 2996
+      }
+    },
+    {
+      "text": "piegvh",
+      "conf": 100,
+      "bbox": {
+        "left": 435,
+        "top": 2956,
+        "right": 572,
+        "bottom": 2996
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 604,
+        "top": 2970,
+        "right": 684,
+        "bottom": 3008
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 716,
+        "top": 2960,
+        "right": 757,
+        "bottom": 2996
+      }
+    },
+    {
+      "text": "tken",
+      "conf": 100,
+      "bbox": {
+        "left": 789,
+        "top": 2956,
+        "right": 886,
+        "bottom": 2996
+      }
+    },
+    {
+      "text": "mtc",
+      "conf": 100,
+      "bbox": {
+        "left": 918,
+        "top": 2960,
+        "right": 988,
+        "bottom": 2996
+      }
+    },
+    {
+      "text": "uhd",
+      "conf": 100,
+      "bbox": {
+        "left": 1019,
+        "top": 2970,
+        "right": 1111,
+        "bottom": 2996
+      }
+    },
+    {
+      "text": "ynyloxnxpnu",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 3024,
+        "right": 349,
+        "bottom": 3074
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 371,
+        "top": 3023,
+        "right": 451,
+        "bottom": 3062
+      }
+    },
+    {
+      "text": "fadzthdg,",
+      "conf": 100,
+      "bbox": {
+        "left": 473,
+        "top": 3023,
+        "right": 665,
+        "bottom": 3074
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 689,
+        "top": 3023,
+        "right": 769,
+        "bottom": 3062
+      }
+    },
+    {
+      "text": "viw’aa",
+      "conf": 100,
+      "bbox": {
+        "left": 790,
+        "top": 3022,
+        "right": 930,
+        "bottom": 3074
+      }
+    },
+    {
+      "text": "nccguu",
+      "conf": 100,
+      "bbox": {
+        "left": 953,
+        "top": 3023,
+        "right": 1111,
+        "bottom": 3074
+      }
+    },
+    {
+      "text": "iazg",
+      "conf": 100,
+      "bbox": {
+        "left": 85,
+        "top": 3101,
+        "right": 190,
+        "bottom": 3139
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 208,
+        "top": 3091,
+        "right": 250,
+        "bottom": 3127
+      }
+    },
+    {
+      "text": "nzgbparn",
+      "conf": 100,
+      "bbox": {
+        "left": 269,
+        "top": 3088,
+        "right": 457,
+        "bottom": 3139
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 475,
+        "top": 3088,
+        "right": 555,
+        "bottom": 3127
+      }
+    },
+    {
+      "text": "gadmbrh.",
+      "conf": 100,
+      "bbox": {
+        "left": 575,
+        "top": 3089,
+        "right": 776,
+        "bottom": 3139
+      }
+    },
+    {
+      "text": "Fejf",
+      "conf": 100,
+      "bbox": {
+        "left": 799,
+        "top": 3088,
+        "right": 899,
+        "bottom": 3127
+      }
+    },
+    {
+      "text": "eujazgk",
+      "conf": 100,
+      "bbox": {
+        "left": 919,
+        "top": 3088,
+        "right": 1080,
+        "bottom": 3127
+      }
+    },
+    {
+      "text": "jngnomm,",
+      "conf": 0,
+      "bbox": {
+        "left": 979,
+        "top": 134,
+        "right": 1098,
+        "bottom": 161
+      }
+    },
+    {
+      "text": "k",
+      "conf": 0,
+      "bbox": {
+        "left": 958,
+        "top": 148,
+        "right": 977,
+        "bottom": 168
+      }
+    },
+    {
+      "text": "¢,",
+      "conf": 0,
+      "bbox": {
+        "left": 1115,
+        "top": 159,
+        "right": 1136,
+        "bottom": 180
+      }
+    },
+    {
+      "text": "%",
+      "conf": 0,
+      "bbox": {
+        "left": 1141,
+        "top": 190,
+        "right": 1166,
+        "bottom": 219
+      }
+    },
+    {
+      "text": "%",
+      "conf": 0,
+      "bbox": {
+        "left": 1158,
+        "top": 220,
+        "right": 1174,
+        "bottom": 229
+      }
+    },
+    {
+      "text": "~",
+      "conf": 0,
+      "bbox": {
+        "left": 1166,
+        "top": 241,
+        "right": 1184,
+        "bottom": 252
+      }
+    },
+    {
+      "text": "=",
+      "conf": 0,
+      "bbox": {
+        "left": 1168,
+        "top": 253,
+        "right": 1189,
+        "bottom": 268
+      }
+    },
+    {
+      "text": "B'B'B",
+      "conf": 0,
+      "bbox": {
+        "left": 1169,
+        "top": 299,
+        "right": 1190,
+        "bottom": 313
+      }
+    },
+    {
+      "text": "~",
+      "conf": 0,
+      "bbox": {
+        "left": 1161,
+        "top": 314,
+        "right": 1182,
+        "bottom": 330
+      }
+    },
+    {
+      "text": "”",
+      "conf": 0,
+      "bbox": {
+        "left": 1160,
+        "top": 331,
+        "right": 1176,
+        "bottom": 344
+      }
+    },
+    {
+      "text": "dK",
+      "conf": 0,
+      "bbox": {
+        "left": 1148,
+        "top": 355,
+        "right": 1163,
+        "bottom": 369
+      }
+    },
+    {
+      "text": "vljys",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 487,
+        "right": 1323,
+        "bottom": 525
+      }
+    },
+    {
+      "text": "zq",
+      "conf": 100,
+      "bbox": {
+        "left": 1365,
+        "top": 473,
+        "right": 1408,
+        "bottom": 513
+      }
+    },
+    {
+      "text": "edbhgoxkj",
+      "conf": 100,
+      "bbox": {
+        "left": 1446,
+        "top": 475,
+        "right": 1642,
+        "bottom": 513
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1684,
+        "top": 473,
+        "right": 1764,
+        "bottom": 513
+      }
+    },
+    {
+      "text": "sdzqiwrl",
+      "conf": 100,
+      "bbox": {
+        "left": 1805,
+        "top": 475,
+        "right": 1996,
+        "bottom": 525
+      }
+    },
+    {
+      "text": "rf",
+      "conf": 100,
+      "bbox": {
+        "left": 2038,
+        "top": 475,
+        "right": 2072,
+        "bottom": 513
+      }
+    },
+    {
+      "text": "xmhh",
+      "conf": 100,
+      "bbox": {
+        "left": 2112,
+        "top": 473,
+        "right": 2226,
+        "bottom": 513
+      }
+    },
+    {
+      "text": "wuidz",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 536,
+        "right": 1342,
+        "bottom": 575
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 1360,
+        "top": 549,
+        "right": 1441,
+        "bottom": 587
+      }
+    },
+    {
+      "text": "pq",
+      "conf": 100,
+      "bbox": {
+        "left": 1461,
+        "top": 549,
+        "right": 1506,
+        "bottom": 575
+      }
+    },
+    {
+      "text": "tvzwddz",
+      "conf": 100,
+      "bbox": {
+        "left": 1527,
+        "top": 536,
+        "right": 1678,
+        "bottom": 587
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1697,
+        "top": 536,
+        "right": 1777,
+        "bottom": 575
+      }
+    },
+    {
+      "text": "qnhgox.",
+      "conf": 100,
+      "bbox": {
+        "left": 1796,
+        "top": 537,
+        "right": 1958,
+        "bottom": 587
+      }
+    },
+    {
+      "text": "Qzz",
+      "conf": 100,
+      "bbox": {
+        "left": 1201,
+        "top": 598,
+        "right": 1281,
+        "bottom": 638
+      }
+    },
+    {
+      "text": "updr’i",
+      "conf": 100,
+      "bbox": {
+        "left": 1303,
+        "top": 598,
+        "right": 1436,
+        "bottom": 638
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 1458,
+        "top": 598,
+        "right": 1527,
+        "bottom": 638
+      }
+    },
+    {
+      "text": "ygody:",
+      "conf": 100,
+      "bbox": {
+        "left": 1549,
+        "top": 598,
+        "right": 1680,
+        "bottom": 650
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 1703,
+        "top": 612,
+        "right": 1784,
+        "bottom": 650
+      }
+    },
+    {
+      "text": "puy’d",
+      "conf": 100,
+      "bbox": {
+        "left": 1807,
+        "top": 598,
+        "right": 1918,
+        "bottom": 638
+      }
+    },
+    {
+      "text": "nccguu",
+      "conf": 100,
+      "bbox": {
+        "left": 1940,
+        "top": 598,
+        "right": 2098,
+        "bottom": 650
+      }
+    },
+    {
+      "text": "rwdi",
+      "conf": 100,
+      "bbox": {
+        "left": 2120,
+        "top": 598,
+        "right": 2226,
+        "bottom": 638
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 664,
+        "right": 1241,
+        "bottom": 699
+      }
+    },
+    {
+      "text": "ddbtfv",
+      "conf": 100,
+      "bbox": {
+        "left": 1265,
+        "top": 659,
+        "right": 1404,
+        "bottom": 699
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 1428,
+        "top": 673,
+        "right": 1451,
+        "bottom": 699
+      }
+    },
+    {
+      "text": "xzvrrzeu",
+      "conf": 100,
+      "bbox": {
+        "left": 1475,
+        "top": 660,
+        "right": 1653,
+        "bottom": 711
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1677,
+        "top": 660,
+        "right": 1757,
+        "bottom": 699
+      }
+    },
+    {
+      "text": "mbvbdd",
+      "conf": 100,
+      "bbox": {
+        "left": 1781,
+        "top": 673,
+        "right": 1946,
+        "bottom": 699
+      }
+    },
+    {
+      "text": "rary",
+      "conf": 100,
+      "bbox": {
+        "left": 1969,
+        "top": 660,
+        "right": 2068,
+        "bottom": 711
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 2092,
+        "top": 664,
+        "right": 2133,
+        "bottom": 699
+      }
+    },
+    {
+      "text": "rdl",
+      "conf": 100,
+      "bbox": {
+        "left": 2158,
+        "top": 664,
+        "right": 2226,
+        "bottom": 711
+      }
+    },
+    {
+      "text": "gjjcu",
+      "conf": 100,
+      "bbox": {
+        "left": 1199,
+        "top": 722,
+        "right": 1339,
+        "bottom": 762
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 1367,
+        "top": 736,
+        "right": 1448,
+        "bottom": 774
+      }
+    },
+    {
+      "text": "lxgb",
+      "conf": 100,
+      "bbox": {
+        "left": 1476,
+        "top": 726,
+        "right": 1590,
+        "bottom": 762
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1619,
+        "top": 726,
+        "right": 1660,
+        "bottom": 762
+      }
+    },
+    {
+      "text": "tt.",
+      "conf": 100,
+      "bbox": {
+        "left": 1690,
+        "top": 736,
+        "right": 1754,
+        "bottom": 774
+      }
+    },
+    {
+      "text": "Wz",
+      "conf": 100,
+      "bbox": {
+        "left": 1787,
+        "top": 722,
+        "right": 1832,
+        "bottom": 761
+      }
+    },
+    {
+      "text": "rgfo,",
+      "conf": 100,
+      "bbox": {
+        "left": 1860,
+        "top": 722,
+        "right": 1957,
+        "bottom": 769
+      }
+    },
+    {
+      "text": "epvgirgxr",
+      "conf": 100,
+      "bbox": {
+        "left": 1989,
+        "top": 724,
+        "right": 2226,
+        "bottom": 762
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 785,
+        "right": 1268,
+        "bottom": 824
+      }
+    },
+    {
+      "text": "fqhl",
+      "conf": 100,
+      "bbox": {
+        "left": 1296,
+        "top": 788,
+        "right": 1403,
+        "bottom": 824
+      }
+    },
+    {
+      "text": "wginodfjl",
+      "conf": 100,
+      "bbox": {
+        "left": 1429,
+        "top": 785,
+        "right": 1666,
+        "bottom": 836
+      }
+    },
+    {
+      "text": "ynyloxnxpnu",
+      "conf": 100,
+      "bbox": {
+        "left": 1691,
+        "top": 786,
+        "right": 1954,
+        "bottom": 836
+      }
+    },
+    {
+      "text": "joev",
+      "conf": 100,
+      "bbox": {
+        "left": 1981,
+        "top": 798,
+        "right": 2094,
+        "bottom": 824
+      }
+    },
+    {
+      "text": "pvkt",
+      "conf": 100,
+      "bbox": {
+        "left": 2120,
+        "top": 784,
+        "right": 2226,
+        "bottom": 824
+      }
+    },
+    {
+      "text": "hgqvoz",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 847,
+        "right": 1344,
+        "bottom": 899
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 1369,
+        "top": 861,
+        "right": 1392,
+        "bottom": 887
+      }
+    },
+    {
+      "text": "zzl",
+      "conf": 100,
+      "bbox": {
+        "left": 1417,
+        "top": 847,
+        "right": 1498,
+        "bottom": 887
+      }
+    },
+    {
+      "text": "odxwmgm",
+      "conf": 100,
+      "bbox": {
+        "left": 1524,
+        "top": 847,
+        "right": 1692,
+        "bottom": 887
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1718,
+        "top": 847,
+        "right": 1798,
+        "bottom": 886
+      }
+    },
+    {
+      "text": "sttnjabv",
+      "conf": 100,
+      "bbox": {
+        "left": 1824,
+        "top": 847,
+        "right": 2019,
+        "bottom": 899
+      }
+    },
+    {
+      "text": "rbzlojre",
+      "conf": 100,
+      "bbox": {
+        "left": 2042,
+        "top": 847,
+        "right": 2230,
+        "bottom": 899
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 913,
+        "right": 1241,
+        "bottom": 949
+      }
+    },
+    {
+      "text": "ga",
+      "conf": 100,
+      "bbox": {
+        "left": 1267,
+        "top": 910,
+        "right": 1315,
+        "bottom": 949
+      }
+    },
+    {
+      "text": "nkb",
+      "conf": 100,
+      "bbox": {
+        "left": 1341,
+        "top": 910,
+        "right": 1405,
+        "bottom": 949
+      }
+    },
+    {
+      "text": "ki",
+      "conf": 100,
+      "bbox": {
+        "left": 1430,
+        "top": 910,
+        "right": 1483,
+        "bottom": 961
+      }
+    },
+    {
+      "text": "ewwz",
+      "conf": 100,
+      "bbox": {
+        "left": 1507,
+        "top": 923,
+        "right": 1611,
+        "bottom": 961
+      }
+    },
+    {
+      "text": "viuccbnhh",
+      "conf": 100,
+      "bbox": {
+        "left": 1637,
+        "top": 911,
+        "right": 1834,
+        "bottom": 961
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1859,
+        "top": 910,
+        "right": 1939,
+        "bottom": 949
+      }
+    },
+    {
+      "text": "iwsnfxsnrx.",
+      "conf": 100,
+      "bbox": {
+        "left": 1965,
+        "top": 911,
+        "right": 2224,
+        "bottom": 949
+      }
+    },
+    {
+      "text": "Lwmps",
+      "conf": 100,
+      "bbox": {
+        "left": 1202,
+        "top": 972,
+        "right": 1328,
+        "bottom": 1011
+      }
+    },
+    {
+      "text": "llcy",
+      "conf": 100,
+      "bbox": {
+        "left": 1352,
+        "top": 972,
+        "right": 1443,
+        "bottom": 1011
+      }
+    },
+    {
+      "text": "wtuxlaks",
+      "conf": 100,
+      "bbox": {
+        "left": 1467,
+        "top": 972,
+        "right": 1681,
+        "bottom": 1011
+      }
+    },
+    {
+      "text": "rf",
+      "conf": 100,
+      "bbox": {
+        "left": 1706,
+        "top": 974,
+        "right": 1739,
+        "bottom": 1011
+      }
+    },
+    {
+      "text": "vsimttls",
+      "conf": 100,
+      "bbox": {
+        "left": 1764,
+        "top": 972,
+        "right": 1940,
+        "bottom": 1024
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 1963,
+        "top": 985,
+        "right": 2044,
+        "bottom": 1024
+      }
+    },
+    {
+      "text": "rv",
+      "conf": 100,
+      "bbox": {
+        "left": 2068,
+        "top": 985,
+        "right": 2121,
+        "bottom": 1023
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 2146,
+        "top": 972,
+        "right": 2226,
+        "bottom": 1011
+      }
+    },
+    {
+      "text": "wlcotqr",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1033,
+        "right": 1356,
+        "bottom": 1085
+      }
+    },
+    {
+      "text": "ewwz",
+      "conf": 100,
+      "bbox": {
+        "left": 1376,
+        "top": 1047,
+        "right": 1480,
+        "bottom": 1085
+      }
+    },
+    {
+      "text": "zljhgds",
+      "conf": 100,
+      "bbox": {
+        "left": 1500,
+        "top": 1035,
+        "right": 1668,
+        "bottom": 1085
+      }
+    },
+    {
+      "text": "ilhf",
+      "conf": 100,
+      "bbox": {
+        "left": 1689,
+        "top": 1034,
+        "right": 1772,
+        "bottom": 1073
+      }
+    },
+    {
+      "text": "nccguu",
+      "conf": 100,
+      "bbox": {
+        "left": 1793,
+        "top": 1034,
+        "right": 1951,
+        "bottom": 1085
+      }
+    },
+    {
+      "text": "vatqn",
+      "conf": 100,
+      "bbox": {
+        "left": 1972,
+        "top": 1034,
+        "right": 2092,
+        "bottom": 1085
+      }
+    },
+    {
+      "text": "xpgb",
+      "conf": 100,
+      "bbox": {
+        "left": 2113,
+        "top": 1047,
+        "right": 2226,
+        "bottom": 1073
+      }
+    },
+    {
+      "text": "qoct",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1096,
+        "right": 1296,
+        "bottom": 1135
+      }
+    },
+    {
+      "text": "zq",
+      "conf": 100,
+      "bbox": {
+        "left": 1329,
+        "top": 1096,
+        "right": 1372,
+        "bottom": 1135
+      }
+    },
+    {
+      "text": "gopitu,",
+      "conf": 100,
+      "bbox": {
+        "left": 1402,
+        "top": 1096,
+        "right": 1577,
+        "bottom": 1143
+      }
+    },
+    {
+      "text": "rnqjfsa",
+      "conf": 100,
+      "bbox": {
+        "left": 1610,
+        "top": 1096,
+        "right": 1799,
+        "bottom": 1135
+      }
+    },
+    {
+      "text": "llcy",
+      "conf": 100,
+      "bbox": {
+        "left": 1831,
+        "top": 1096,
+        "right": 1921,
+        "bottom": 1135
+      }
+    },
+    {
+      "text": "ga",
+      "conf": 100,
+      "bbox": {
+        "left": 1953,
+        "top": 1096,
+        "right": 2001,
+        "bottom": 1135
+      }
+    },
+    {
+      "text": "swxepyts",
+      "conf": 100,
+      "bbox": {
+        "left": 2034,
+        "top": 1096,
+        "right": 2227,
+        "bottom": 1147
+      }
+    },
+    {
+      "text": "weepre,",
+      "conf": 100,
+      "bbox": {
+        "left": 1201,
+        "top": 1158,
+        "right": 1378,
+        "bottom": 1210
+      }
+    },
+    {
+      "text": "uhd",
+      "conf": 100,
+      "bbox": {
+        "left": 1426,
+        "top": 1172,
+        "right": 1518,
+        "bottom": 1198
+      }
+    },
+    {
+      "text": "fadzthdg,",
+      "conf": 100,
+      "bbox": {
+        "left": 1564,
+        "top": 1158,
+        "right": 1756,
+        "bottom": 1210
+      }
+    },
+    {
+      "text": "ng",
+      "conf": 100,
+      "bbox": {
+        "left": 1804,
+        "top": 1172,
+        "right": 1849,
+        "bottom": 1198
+      }
+    },
+    {
+      "text": "vfef",
+      "conf": 100,
+      "bbox": {
+        "left": 1895,
+        "top": 1172,
+        "right": 1998,
+        "bottom": 1198
+      }
+    },
+    {
+      "text": "rsajbrkg",
+      "conf": 100,
+      "bbox": {
+        "left": 2044,
+        "top": 1158,
+        "right": 2226,
+        "bottom": 1210
+      }
+    },
+    {
+      "text": "kpivytmd.",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1221,
+        "right": 1390,
+        "bottom": 1260
+      }
+    },
+    {
+      "text": "Pq",
+      "conf": 100,
+      "bbox": {
+        "left": 1203,
+        "top": 1344,
+        "right": 1256,
+        "bottom": 1384
+      }
+    },
+    {
+      "text": "puy’d",
+      "conf": 100,
+      "bbox": {
+        "left": 1282,
+        "top": 1344,
+        "right": 1393,
+        "bottom": 1384
+      }
+    },
+    {
+      "text": "ga",
+      "conf": 100,
+      "bbox": {
+        "left": 1418,
+        "top": 1345,
+        "right": 1466,
+        "bottom": 1384
+      }
+    },
+    {
+      "text": "nprbff",
+      "conf": 100,
+      "bbox": {
+        "left": 1492,
+        "top": 1345,
+        "right": 1625,
+        "bottom": 1384
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1649,
+        "top": 1349,
+        "right": 1691,
+        "bottom": 1384
+      }
+    },
+    {
+      "text": "manpq",
+      "conf": 100,
+      "bbox": {
+        "left": 1717,
+        "top": 1349,
+        "right": 1823,
+        "bottom": 1384
+      }
+    },
+    {
+      "text": "kpdkynyam,",
+      "conf": 100,
+      "bbox": {
+        "left": 1848,
+        "top": 1345,
+        "right": 2096,
+        "bottom": 1396
+      }
+    },
+    {
+      "text": "vfef",
+      "conf": 100,
+      "bbox": {
+        "left": 2123,
+        "top": 1358,
+        "right": 2226,
+        "bottom": 1384
+      }
+    },
+    {
+      "text": "vu",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1407,
+        "right": 1232,
+        "bottom": 1446
+      }
+    },
+    {
+      "text": "viw’aa",
+      "conf": 100,
+      "bbox": {
+        "left": 1256,
+        "top": 1407,
+        "right": 1396,
+        "bottom": 1459
+      }
+    },
+    {
+      "text": "yut",
+      "conf": 100,
+      "bbox": {
+        "left": 1426,
+        "top": 1411,
+        "right": 1496,
+        "bottom": 1447
+      }
+    },
+    {
+      "text": "irvt",
+      "conf": 100,
+      "bbox": {
+        "left": 1525,
+        "top": 1421,
+        "right": 1619,
+        "bottom": 1447
+      }
+    },
+    {
+      "text": "viw’xg",
+      "conf": 100,
+      "bbox": {
+        "left": 1647,
+        "top": 1407,
+        "right": 1771,
+        "bottom": 1459
+      }
+    },
+    {
+      "text": "pepdgf",
+      "conf": 100,
+      "bbox": {
+        "left": 1798,
+        "top": 1407,
+        "right": 1923,
+        "bottom": 1446
+      }
+    },
+    {
+      "text": "nx.",
+      "conf": 100,
+      "bbox": {
+        "left": 1952,
+        "top": 1409,
+        "right": 1994,
+        "bottom": 1447
+      }
+    },
+    {
+      "text": "Uxlespe",
+      "conf": 100,
+      "bbox": {
+        "left": 2026,
+        "top": 1407,
+        "right": 2226,
+        "bottom": 1447
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1470,
+        "right": 1268,
+        "bottom": 1509
+      }
+    },
+    {
+      "text": "rmngeis",
+      "conf": 100,
+      "bbox": {
+        "left": 1296,
+        "top": 1471,
+        "right": 1474,
+        "bottom": 1521
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1505,
+        "top": 1470,
+        "right": 1585,
+        "bottom": 1509
+      }
+    },
+    {
+      "text": "uyn",
+      "conf": 100,
+      "bbox": {
+        "left": 1615,
+        "top": 1470,
+        "right": 1670,
+        "bottom": 1509
+      }
+    },
+    {
+      "text": "rbzlojre",
+      "conf": 100,
+      "bbox": {
+        "left": 1700,
+        "top": 1469,
+        "right": 1887,
+        "bottom": 1521
+      }
+    },
+    {
+      "text": "ga",
+      "conf": 100,
+      "bbox": {
+        "left": 1914,
+        "top": 1470,
+        "right": 1962,
+        "bottom": 1509
+      }
+    },
+    {
+      "text": "ukzpif",
+      "conf": 100,
+      "bbox": {
+        "left": 1994,
+        "top": 1470,
+        "right": 2143,
+        "bottom": 1521
+      }
+    },
+    {
+      "text": "ki",
+      "conf": 100,
+      "bbox": {
+        "left": 2174,
+        "top": 1470,
+        "right": 2226,
+        "bottom": 1521
+      }
+    },
+    {
+      "text": "ewwz",
+      "conf": 100,
+      "bbox": {
+        "left": 1199,
+        "top": 1545,
+        "right": 1303,
+        "bottom": 1584
+      }
+    },
+    {
+      "text": "sdzqiwrl",
+      "conf": 100,
+      "bbox": {
+        "left": 1328,
+        "top": 1534,
+        "right": 1519,
+        "bottom": 1583
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1546,
+        "top": 1532,
+        "right": 1625,
+        "bottom": 1572
+      }
+    },
+    {
+      "text": "edbhgoxkj.",
+      "conf": 100,
+      "bbox": {
+        "left": 1651,
+        "top": 1534,
+        "right": 1860,
+        "bottom": 1571
+      }
+    },
+    {
+      "text": "Lwmps",
+      "conf": 100,
+      "bbox": {
+        "left": 1890,
+        "top": 1532,
+        "right": 2016,
+        "bottom": 1571
+      }
+    },
+    {
+      "text": "llcy",
+      "conf": 100,
+      "bbox": {
+        "left": 2041,
+        "top": 1532,
+        "right": 2132,
+        "bottom": 1571
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 2157,
+        "top": 1532,
+        "right": 2226,
+        "bottom": 1571
+      }
+    },
+    {
+      "text": "ifxzaaf",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1595,
+        "right": 1385,
+        "bottom": 1634
+      }
+    },
+    {
+      "text": "ilhf",
+      "conf": 100,
+      "bbox": {
+        "left": 1428,
+        "top": 1595,
+        "right": 1510,
+        "bottom": 1634
+      }
+    },
+    {
+      "text": "joev,",
+      "conf": 100,
+      "bbox": {
+        "left": 1553,
+        "top": 1608,
+        "right": 1680,
+        "bottom": 1642
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1725,
+        "top": 1595,
+        "right": 1805,
+        "bottom": 1634
+      }
+    },
+    {
+      "text": "ziivp",
+      "conf": 100,
+      "bbox": {
+        "left": 1849,
+        "top": 1596,
+        "right": 1971,
+        "bottom": 1646
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 2013,
+        "top": 1595,
+        "right": 2082,
+        "bottom": 1634
+      }
+    },
+    {
+      "text": "hvea!",
+      "conf": 100,
+      "bbox": {
+        "left": 2125,
+        "top": 1595,
+        "right": 2224,
+        "bottom": 1634
+      }
+    },
+    {
+      "text": "Anbmnsbi,",
+      "conf": 100,
+      "bbox": {
+        "left": 1201,
+        "top": 1657,
+        "right": 1458,
+        "bottom": 1704
+      }
+    },
+    {
+      "text": "xk",
+      "conf": 100,
+      "bbox": {
+        "left": 1480,
+        "top": 1670,
+        "right": 1526,
+        "bottom": 1696
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 1547,
+        "top": 1670,
+        "right": 1570,
+        "bottom": 1696
+      }
+    },
+    {
+      "text": "Xjhypgeqduc",
+      "conf": 100,
+      "bbox": {
+        "left": 1592,
+        "top": 1657,
+        "right": 1861,
+        "bottom": 1709
+      }
+    },
+    {
+      "text": "Mbpefxncq,",
+      "conf": 100,
+      "bbox": {
+        "left": 1882,
+        "top": 1656,
+        "right": 2124,
+        "bottom": 1704
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 2145,
+        "top": 1670,
+        "right": 2226,
+        "bottom": 1709
+      }
+    },
+    {
+      "text": "rwdi",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1719,
+        "right": 1305,
+        "bottom": 1758
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 1331,
+        "top": 1719,
+        "right": 1400,
+        "bottom": 1758
+      }
+    },
+    {
+      "text": "powoxm",
+      "conf": 100,
+      "bbox": {
+        "left": 1425,
+        "top": 1719,
+        "right": 1600,
+        "bottom": 1758
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1625,
+        "top": 1719,
+        "right": 1706,
+        "bottom": 1758
+      }
+    },
+    {
+      "text": "ptoicxcuzw",
+      "conf": 100,
+      "bbox": {
+        "left": 1732,
+        "top": 1720,
+        "right": 1971,
+        "bottom": 1770
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1997,
+        "top": 1722,
+        "right": 2038,
+        "bottom": 1758
+      }
+    },
+    {
+      "text": "mpi",
+      "conf": 100,
+      "bbox": {
+        "left": 2064,
+        "top": 1722,
+        "right": 2130,
+        "bottom": 1770
+      }
+    },
+    {
+      "text": "mtc",
+      "conf": 100,
+      "bbox": {
+        "left": 2156,
+        "top": 1722,
+        "right": 2226,
+        "bottom": 1758
+      }
+    },
+    {
+      "text": "xxxyjctlr",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1781,
+        "right": 1394,
+        "bottom": 1820
+      }
+    },
+    {
+      "text": "wtuwmt",
+      "conf": 100,
+      "bbox": {
+        "left": 1442,
+        "top": 1781,
+        "right": 1582,
+        "bottom": 1832
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1631,
+        "top": 1781,
+        "right": 1711,
+        "bottom": 1820
+      }
+    },
+    {
+      "text": "azpm",
+      "conf": 100,
+      "bbox": {
+        "left": 1758,
+        "top": 1781,
+        "right": 1851,
+        "bottom": 1820
+      }
+    },
+    {
+      "text": "lodl",
+      "conf": 100,
+      "bbox": {
+        "left": 1899,
+        "top": 1783,
+        "right": 1983,
+        "bottom": 1820
+      }
+    },
+    {
+      "text": "xxxyjctlr",
+      "conf": 100,
+      "bbox": {
+        "left": 2033,
+        "top": 1781,
+        "right": 2226,
+        "bottom": 1820
+      }
+    },
+    {
+      "text": "tunfoxb",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1847,
+        "right": 1365,
+        "bottom": 1895
+      }
+    },
+    {
+      "text": "llcy",
+      "conf": 100,
+      "bbox": {
+        "left": 1390,
+        "top": 1843,
+        "right": 1480,
+        "bottom": 1883
+      }
+    },
+    {
+      "text": "rgj",
+      "conf": 100,
+      "bbox": {
+        "left": 1505,
+        "top": 1857,
+        "right": 1574,
+        "bottom": 1883
+      }
+    },
+    {
+      "text": "rmoccuqgnnf",
+      "conf": 100,
+      "bbox": {
+        "left": 1600,
+        "top": 1845,
+        "right": 1847,
+        "bottom": 1895
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1871,
+        "top": 1843,
+        "right": 1951,
+        "bottom": 1883
+      }
+    },
+    {
+      "text": "rstqdjxggnr",
+      "conf": 100,
+      "bbox": {
+        "left": 1976,
+        "top": 1843,
+        "right": 2228,
+        "bottom": 1895
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1910,
+        "right": 1241,
+        "bottom": 1945
+      }
+    },
+    {
+      "text": "viw.",
+      "conf": 100,
+      "bbox": {
+        "left": 1298,
+        "top": 1919,
+        "right": 1392,
+        "bottom": 1957
+      }
+    },
+    {
+      "text": "Pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1452,
+        "top": 1906,
+        "right": 1546,
+        "bottom": 1945
+      }
+    },
+    {
+      "text": "llcy’i",
+      "conf": 100,
+      "bbox": {
+        "left": 1603,
+        "top": 1905,
+        "right": 1729,
+        "bottom": 1945
+      }
+    },
+    {
+      "text": "kpdkynyam",
+      "conf": 100,
+      "bbox": {
+        "left": 1788,
+        "top": 1906,
+        "right": 2023,
+        "bottom": 1957
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 2079,
+        "top": 1910,
+        "right": 2120,
+        "bottom": 1945
+      }
+    },
+    {
+      "text": "ga",
+      "conf": 100,
+      "bbox": {
+        "left": 2177,
+        "top": 1906,
+        "right": 2226,
+        "bottom": 1945
+      }
+    },
+    {
+      "text": "fxbjmrloek.",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 1968,
+        "right": 1445,
+        "bottom": 2008
+      }
+    },
+    {
+      "text": "Tqb,",
+      "conf": 100,
+      "bbox": {
+        "left": 1201,
+        "top": 2092,
+        "right": 1320,
+        "bottom": 2139
+      }
+    },
+    {
+      "text": "B",
+      "conf": 100,
+      "bbox": {
+        "left": 1351,
+        "top": 2092,
+        "right": 1366,
+        "bottom": 2131
+      }
+    },
+    {
+      "text": "amhk",
+      "conf": 100,
+      "bbox": {
+        "left": 1395,
+        "top": 2092,
+        "right": 1517,
+        "bottom": 2132
+      }
+    },
+    {
+      "text": "nx",
+      "conf": 100,
+      "bbox": {
+        "left": 1546,
+        "top": 2094,
+        "right": 1575,
+        "bottom": 2132
+      }
+    },
+    {
+      "text": "hdg",
+      "conf": 100,
+      "bbox": {
+        "left": 1603,
+        "top": 2106,
+        "right": 1678,
+        "bottom": 2132
+      }
+    },
+    {
+      "text": "ga",
+      "conf": 100,
+      "bbox": {
+        "left": 1707,
+        "top": 2092,
+        "right": 1755,
+        "bottom": 2132
+      }
+    },
+    {
+      "text": "kocme",
+      "conf": 100,
+      "bbox": {
+        "left": 1784,
+        "top": 2092,
+        "right": 1912,
+        "bottom": 2144
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1941,
+        "top": 2096,
+        "right": 1982,
+        "bottom": 2132
+      }
+    },
+    {
+      "text": "hdxfz",
+      "conf": 100,
+      "bbox": {
+        "left": 2012,
+        "top": 2092,
+        "right": 2139,
+        "bottom": 2132
+      }
+    },
+    {
+      "text": "juv",
+      "conf": 100,
+      "bbox": {
+        "left": 2168,
+        "top": 2092,
+        "right": 2230,
+        "bottom": 2132
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2155,
+        "right": 1268,
+        "bottom": 2194
+      }
+    },
+    {
+      "text": "henh",
+      "conf": 100,
+      "bbox": {
+        "left": 1294,
+        "top": 2155,
+        "right": 1385,
+        "bottom": 2194
+      }
+    },
+    {
+      "text": "llcy",
+      "conf": 100,
+      "bbox": {
+        "left": 1409,
+        "top": 2155,
+        "right": 1499,
+        "bottom": 2194
+      }
+    },
+    {
+      "text": "ic",
+      "conf": 100,
+      "bbox": {
+        "left": 1523,
+        "top": 2168,
+        "right": 1586,
+        "bottom": 2194
+      }
+    },
+    {
+      "text": "nccguu",
+      "conf": 100,
+      "bbox": {
+        "left": 1612,
+        "top": 2155,
+        "right": 1770,
+        "bottom": 2206
+      }
+    },
+    {
+      "text": "rwdi",
+      "conf": 100,
+      "bbox": {
+        "left": 1794,
+        "top": 2155,
+        "right": 1900,
+        "bottom": 2194
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1925,
+        "top": 2159,
+        "right": 1967,
+        "bottom": 2194
+      }
+    },
+    {
+      "text": "yiz",
+      "conf": 100,
+      "bbox": {
+        "left": 1993,
+        "top": 2168,
+        "right": 2060,
+        "bottom": 2194
+      }
+    },
+    {
+      "text": "wtuwmt",
+      "conf": 100,
+      "bbox": {
+        "left": 2085,
+        "top": 2155,
+        "right": 2226,
+        "bottom": 2206
+      }
+    },
+    {
+      "text": "zjmtzmz",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2217,
+        "right": 1380,
+        "bottom": 2269
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1415,
+        "top": 2221,
+        "right": 1456,
+        "bottom": 2256
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 1491,
+        "top": 2217,
+        "right": 1560,
+        "bottom": 2256
+      }
+    },
+    {
+      "text": "qmu.",
+      "conf": 100,
+      "bbox": {
+        "left": 1596,
+        "top": 2217,
+        "right": 1686,
+        "bottom": 2256
+      }
+    },
+    {
+      "text": "Qzz",
+      "conf": 100,
+      "bbox": {
+        "left": 1725,
+        "top": 2217,
+        "right": 1805,
+        "bottom": 2257
+      }
+    },
+    {
+      "text": "lqds",
+      "conf": 100,
+      "bbox": {
+        "left": 1838,
+        "top": 2217,
+        "right": 1960,
+        "bottom": 2256
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 1994,
+        "top": 2230,
+        "right": 2075,
+        "bottom": 2269
+      }
+    },
+    {
+      "text": "xlzrx",
+      "conf": 100,
+      "bbox": {
+        "left": 2110,
+        "top": 2217,
+        "right": 2226,
+        "bottom": 2257
+      }
+    },
+    {
+      "text": "jxbjc",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2280,
+        "right": 1325,
+        "bottom": 2319
+      }
+    },
+    {
+      "text": "nx,",
+      "conf": 100,
+      "bbox": {
+        "left": 1351,
+        "top": 2281,
+        "right": 1394,
+        "bottom": 2327
+      }
+    },
+    {
+      "text": "sfrqk",
+      "conf": 100,
+      "bbox": {
+        "left": 1422,
+        "top": 2280,
+        "right": 1538,
+        "bottom": 2319
+      }
+    },
+    {
+      "text": "rgj",
+      "conf": 100,
+      "bbox": {
+        "left": 1565,
+        "top": 2293,
+        "right": 1634,
+        "bottom": 2319
+      }
+    },
+    {
+      "text": "pq",
+      "conf": 100,
+      "bbox": {
+        "left": 1661,
+        "top": 2293,
+        "right": 1707,
+        "bottom": 2319
+      }
+    },
+    {
+      "text": "zobq",
+      "conf": 100,
+      "bbox": {
+        "left": 1733,
+        "top": 2293,
+        "right": 1857,
+        "bottom": 2331
+      }
+    },
+    {
+      "text": "xxxyjctlr",
+      "conf": 100,
+      "bbox": {
+        "left": 1884,
+        "top": 2279,
+        "right": 2077,
+        "bottom": 2319
+      }
+    },
+    {
+      "text": "fchwj",
+      "conf": 100,
+      "bbox": {
+        "left": 2103,
+        "top": 2280,
+        "right": 2226,
+        "bottom": 2331
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2342,
+        "right": 1280,
+        "bottom": 2381
+      }
+    },
+    {
+      "text": "iavimclqbamcs",
+      "conf": 100,
+      "bbox": {
+        "left": 1347,
+        "top": 2342,
+        "right": 1612,
+        "bottom": 2393
+      }
+    },
+    {
+      "text": "mtc",
+      "conf": 100,
+      "bbox": {
+        "left": 1679,
+        "top": 2346,
+        "right": 1749,
+        "bottom": 2381
+      }
+    },
+    {
+      "text": "sfrqk,",
+      "conf": 100,
+      "bbox": {
+        "left": 1815,
+        "top": 2342,
+        "right": 1945,
+        "bottom": 2389
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 2014,
+        "top": 2342,
+        "right": 2094,
+        "bottom": 2381
+      }
+    },
+    {
+      "text": "nx’i",
+      "conf": 100,
+      "bbox": {
+        "left": 2160,
+        "top": 2341,
+        "right": 2226,
+        "bottom": 2381
+      }
+    },
+    {
+      "text": "duskaukodb",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2405,
+        "right": 1436,
+        "bottom": 2456
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1487,
+        "top": 2408,
+        "right": 1528,
+        "bottom": 2444
+      }
+    },
+    {
+      "text": "eqdmsux",
+      "conf": 100,
+      "bbox": {
+        "left": 1579,
+        "top": 2405,
+        "right": 1743,
+        "bottom": 2456
+      }
+    },
+    {
+      "text": "xwqc",
+      "conf": 100,
+      "bbox": {
+        "left": 1794,
+        "top": 2405,
+        "right": 1907,
+        "bottom": 2444
+      }
+    },
+    {
+      "text": "cln",
+      "conf": 100,
+      "bbox": {
+        "left": 1957,
+        "top": 2405,
+        "right": 2009,
+        "bottom": 2444
+      }
+    },
+    {
+      "text": "wz",
+      "conf": 100,
+      "bbox": {
+        "left": 2060,
+        "top": 2406,
+        "right": 2099,
+        "bottom": 2443
+      }
+    },
+    {
+      "text": "swq",
+      "conf": 100,
+      "bbox": {
+        "left": 2150,
+        "top": 2418,
+        "right": 2226,
+        "bottom": 2444
+      }
+    },
+    {
+      "text": "xktulhdp.",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2466,
+        "right": 1382,
+        "bottom": 2505
+      }
+    },
+    {
+      "text": "Pq",
+      "conf": 100,
+      "bbox": {
+        "left": 1459,
+        "top": 2465,
+        "right": 1512,
+        "bottom": 2506
+      }
+    },
+    {
+      "text": "fjr",
+      "conf": 100,
+      "bbox": {
+        "left": 1584,
+        "top": 2466,
+        "right": 1681,
+        "bottom": 2518
+      }
+    },
+    {
+      "text": "yut",
+      "conf": 100,
+      "bbox": {
+        "left": 1753,
+        "top": 2470,
+        "right": 1824,
+        "bottom": 2505
+      }
+    },
+    {
+      "text": "uxlespe",
+      "conf": 100,
+      "bbox": {
+        "left": 1897,
+        "top": 2466,
+        "right": 2084,
+        "bottom": 2505
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 2157,
+        "top": 2466,
+        "right": 2226,
+        "bottom": 2505
+      }
+    },
+    {
+      "text": "bqubdzmqofh",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2530,
+        "right": 1467,
+        "bottom": 2580
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1489,
+        "top": 2532,
+        "right": 1531,
+        "bottom": 2568
+      }
+    },
+    {
+      "text": "manpq",
+      "conf": 100,
+      "bbox": {
+        "left": 1555,
+        "top": 2532,
+        "right": 1661,
+        "bottom": 2568
+      }
+    },
+    {
+      "text": "kpdkynyam",
+      "conf": 100,
+      "bbox": {
+        "left": 1684,
+        "top": 2529,
+        "right": 1920,
+        "bottom": 2580
+      }
+    },
+    {
+      "text": "uhd,",
+      "conf": 100,
+      "bbox": {
+        "left": 1942,
+        "top": 2542,
+        "right": 2047,
+        "bottom": 2576
+      }
+    },
+    {
+      "text": "vfef",
+      "conf": 100,
+      "bbox": {
+        "left": 2072,
+        "top": 2542,
+        "right": 2175,
+        "bottom": 2568
+      }
+    },
+    {
+      "text": "vu",
+      "conf": 100,
+      "bbox": {
+        "left": 2198,
+        "top": 2528,
+        "right": 2230,
+        "bottom": 2567
+      }
+    },
+    {
+      "text": "viw’aa",
+      "conf": 100,
+      "bbox": {
+        "left": 1199,
+        "top": 2590,
+        "right": 1339,
+        "bottom": 2642
+      }
+    },
+    {
+      "text": "yut",
+      "conf": 100,
+      "bbox": {
+        "left": 1363,
+        "top": 2595,
+        "right": 1433,
+        "bottom": 2630
+      }
+    },
+    {
+      "text": "irvt",
+      "conf": 100,
+      "bbox": {
+        "left": 1456,
+        "top": 2604,
+        "right": 1550,
+        "bottom": 2630
+      }
+    },
+    {
+      "text": "gjjcu",
+      "conf": 100,
+      "bbox": {
+        "left": 1572,
+        "top": 2591,
+        "right": 1711,
+        "bottom": 2630
+      }
+    },
+    {
+      "text": "nx",
+      "conf": 100,
+      "bbox": {
+        "left": 1735,
+        "top": 2593,
+        "right": 1764,
+        "bottom": 2630
+      }
+    },
+    {
+      "text": "ilhf",
+      "conf": 100,
+      "bbox": {
+        "left": 1785,
+        "top": 2591,
+        "right": 1868,
+        "bottom": 2630
+      }
+    },
+    {
+      "text": "mvls",
+      "conf": 100,
+      "bbox": {
+        "left": 1890,
+        "top": 2591,
+        "right": 1984,
+        "bottom": 2630
+      }
+    },
+    {
+      "text": "viw?",
+      "conf": 100,
+      "bbox": {
+        "left": 2006,
+        "top": 2592,
+        "right": 2113,
+        "bottom": 2642
+      }
+    },
+    {
+      "text": "Viw",
+      "conf": 100,
+      "bbox": {
+        "left": 2136,
+        "top": 2591,
+        "right": 2226,
+        "bottom": 2630
+      }
+    },
+    {
+      "text": "ttvuq",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2667,
+        "right": 1326,
+        "bottom": 2693
+      }
+    },
+    {
+      "text": "amhk",
+      "conf": 100,
+      "bbox": {
+        "left": 1366,
+        "top": 2653,
+        "right": 1488,
+        "bottom": 2693
+      }
+    },
+    {
+      "text": "xmhh",
+      "conf": 100,
+      "bbox": {
+        "left": 1529,
+        "top": 2653,
+        "right": 1643,
+        "bottom": 2693
+      }
+    },
+    {
+      "text": "feqoggp",
+      "conf": 100,
+      "bbox": {
+        "left": 1684,
+        "top": 2655,
+        "right": 1874,
+        "bottom": 2705
+      }
+    },
+    {
+      "text": "wtuwmt",
+      "conf": 100,
+      "bbox": {
+        "left": 1914,
+        "top": 2653,
+        "right": 2054,
+        "bottom": 2705
+      }
+    },
+    {
+      "text": "luine",
+      "conf": 100,
+      "bbox": {
+        "left": 2096,
+        "top": 2653,
+        "right": 2226,
+        "bottom": 2705
+      }
+    },
+    {
+      "text": "joev",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2729,
+        "right": 1313,
+        "bottom": 2755
+      }
+    },
+    {
+      "text": "ewwz",
+      "conf": 100,
+      "bbox": {
+        "left": 1357,
+        "top": 2729,
+        "right": 1462,
+        "bottom": 2767
+      }
+    },
+    {
+      "text": "okj",
+      "conf": 100,
+      "bbox": {
+        "left": 1504,
+        "top": 2729,
+        "right": 1599,
+        "bottom": 2767
+      }
+    },
+    {
+      "text": "vu",
+      "conf": 100,
+      "bbox": {
+        "left": 1643,
+        "top": 2715,
+        "right": 1674,
+        "bottom": 2754
+      }
+    },
+    {
+      "text": "viw’aa",
+      "conf": 100,
+      "bbox": {
+        "left": 1714,
+        "top": 2715,
+        "right": 1855,
+        "bottom": 2767
+      }
+    },
+    {
+      "text": "iazg",
+      "conf": 100,
+      "bbox": {
+        "left": 1900,
+        "top": 2729,
+        "right": 2004,
+        "bottom": 2767
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 2048,
+        "top": 2720,
+        "right": 2090,
+        "bottom": 2755
+      }
+    },
+    {
+      "text": "uhd",
+      "conf": 100,
+      "bbox": {
+        "left": 2134,
+        "top": 2729,
+        "right": 2227,
+        "bottom": 2755
+      }
+    },
+    {
+      "text": "ynyloxnxpnu",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 2780,
+        "right": 1464,
+        "bottom": 2829
+      }
+    },
+    {
+      "text": "pko",
+      "conf": 100,
+      "bbox": {
+        "left": 1484,
+        "top": 2778,
+        "right": 1564,
+        "bottom": 2818
+      }
+    },
+    {
+      "text": "qnlhnmv",
+      "conf": 100,
+      "bbox": {
+        "left": 1582,
+        "top": 2778,
+        "right": 1738,
+        "bottom": 2830
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1756,
+        "top": 2782,
+        "right": 1797,
+        "bottom": 2818
+      }
+    },
+    {
+      "text": "mvls",
+      "conf": 100,
+      "bbox": {
+        "left": 1817,
+        "top": 2778,
+        "right": 1911,
+        "bottom": 2818
+      }
+    },
+    {
+      "text": "t",
+      "conf": 100,
+      "bbox": {
+        "left": 1931,
+        "top": 2792,
+        "right": 1954,
+        "bottom": 2818
+      }
+    },
+    {
+      "text": "zzl",
+      "conf": 100,
+      "bbox": {
+        "left": 1972,
+        "top": 2778,
+        "right": 2053,
+        "bottom": 2818
+      }
+    },
+    {
+      "text": "lzjot.",
+      "conf": 100,
+      "bbox": {
+        "left": 2073,
+        "top": 2778,
+        "right": 2193,
+        "bottom": 2818
+      }
+    },
+    {
+      "text": "Vu",
+      "conf": 100,
+      "bbox": {
+        "left": 1201,
+        "top": 2902,
+        "right": 1239,
+        "bottom": 2941
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 1273,
+        "top": 2916,
+        "right": 1353,
+        "bottom": 2954
+      }
+    },
+    {
+      "text": "ncecyayo",
+      "conf": 100,
+      "bbox": {
+        "left": 1392,
+        "top": 2904,
+        "right": 1583,
+        "bottom": 2942
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 1622,
+        "top": 2906,
+        "right": 1663,
+        "bottom": 2942
+      }
+    },
+    {
+      "text": "avkve",
+      "conf": 100,
+      "bbox": {
+        "left": 1702,
+        "top": 2902,
+        "right": 1812,
+        "bottom": 2942
+      }
+    },
+    {
+      "text": "ewwz",
+      "conf": 100,
+      "bbox": {
+        "left": 1850,
+        "top": 2916,
+        "right": 1954,
+        "bottom": 2954
+      }
+    },
+    {
+      "text": "gdfgzr",
+      "conf": 100,
+      "bbox": {
+        "left": 1992,
+        "top": 2916,
+        "right": 2146,
+        "bottom": 2954
+      }
+    },
+    {
+      "text": "ha",
+      "conf": 100,
+      "bbox": {
+        "left": 2184,
+        "top": 2906,
+        "right": 2226,
+        "bottom": 2942
+      }
+    },
+    {
+      "text": "pepdgf",
+      "conf": 100,
+      "bbox": {
+        "left": 1199,
+        "top": 2964,
+        "right": 1325,
+        "bottom": 3004
+      }
+    },
+    {
+      "text": "kpdkynyam",
+      "conf": 100,
+      "bbox": {
+        "left": 1381,
+        "top": 2965,
+        "right": 1617,
+        "bottom": 3016
+      }
+    },
+    {
+      "text": "llcy",
+      "conf": 100,
+      "bbox": {
+        "left": 1671,
+        "top": 2965,
+        "right": 1762,
+        "bottom": 3004
+      }
+    },
+    {
+      "text": "ewwz",
+      "conf": 100,
+      "bbox": {
+        "left": 1817,
+        "top": 2978,
+        "right": 1921,
+        "bottom": 3016
+      }
+    },
+    {
+      "text": "bc",
+      "conf": 100,
+      "bbox": {
+        "left": 1976,
+        "top": 2978,
+        "right": 2027,
+        "bottom": 3004
+      }
+    },
+    {
+      "text": "gcszsl",
+      "conf": 100,
+      "bbox": {
+        "left": 2083,
+        "top": 2965,
+        "right": 2227,
+        "bottom": 3016
+      }
+    },
+    {
+      "text": "zgyhetvusr",
+      "conf": 100,
+      "bbox": {
+        "left": 1200,
+        "top": 3027,
+        "right": 1426,
+        "bottom": 3066
+      }
+    },
+    {
+      "text": "ng",
+      "conf": 100,
+      "bbox": {
+        "left": 1461,
+        "top": 3040,
+        "right": 1506,
+        "bottom": 3066
+      }
+    },
+    {
+      "text": "mnnqxgb",
+      "conf": 100,
+      "bbox": {
+        "left": 1540,
+        "top": 3027,
+        "right": 1699,
+        "bottom": 3066
+      }
+    },
+    {
+      "text": "jxbjc,",
+      "conf": 100,
+      "bbox": {
+        "left": 1734,
+        "top": 3027,
+        "right": 1872,
+        "bottom": 3074
+      }
+    },
+    {
+      "text": "nx",
+      "conf": 100,
+      "bbox": {
+        "left": 1909,
+        "top": 3029,
+        "right": 1938,
+        "bottom": 3066
+      }
+    },
+    {
+      "text": "luine",
+      "conf": 100,
+      "bbox": {
+        "left": 1972,
+        "top": 3027,
+        "right": 2103,
+        "bottom": 3079
+      }
+    },
+    {
+      "text": "oaas",
+      "conf": 100,
+      "bbox": {
+        "left": 2138,
+        "top": 3031,
+        "right": 2226,
+        "bottom": 3066
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 1199,
+        "top": 3103,
+        "right": 1280,
+        "bottom": 3141
+      }
+    },
+    {
+      "text": "okj",
+      "conf": 100,
+      "bbox": {
+        "left": 1301,
+        "top": 3103,
+        "right": 1395,
+        "bottom": 3141
+      }
+    },
+    {
+      "text": "zcpw",
+      "conf": 100,
+      "bbox": {
+        "left": 1417,
+        "top": 3103,
+        "right": 1529,
+        "bottom": 3129
+      }
+    },
+    {
+      "text": "uzjf",
+      "conf": 100,
+      "bbox": {
+        "left": 1550,
+        "top": 3090,
+        "right": 1651,
+        "bottom": 3129
+      }
+    },
+    {
+      "text": "ebt",
+      "conf": 100,
+      "bbox": {
+        "left": 1672,
+        "top": 3090,
+        "right": 1741,
+        "bottom": 3129
+      }
+    },
+    {
+      "text": "xncbtd",
+      "conf": 100,
+      "bbox": {
+        "left": 1764,
+        "top": 3090,
+        "right": 1900,
+        "bottom": 3129
+      }
+    },
+    {
+      "text": "juxvc",
+      "conf": 100,
+      "bbox": {
+        "left": 1920,
+        "top": 3091,
+        "right": 2029,
+        "bottom": 3141
+      }
+    },
+    {
+      "text": "zq",
+      "conf": 100,
+      "bbox": {
+        "left": 2051,
+        "top": 3089,
+        "right": 2095,
+        "bottom": 3129
+      }
+    },
+    {
+      "text": "xmhh",
+      "conf": 100,
+      "bbox": {
+        "left": 2112,
+        "top": 3090,
+        "right": 2226,
+        "bottom": 3129
+      }
+    },
+    {
+      "text": "viw",
+      "conf": 100,
+      "bbox": {
+        "left": 1199,
+        "top": 3164,
+        "right": 1280,
+        "bottom": 3203
+      }
+    },
+    {
+      "text": "obrc",
+      "conf": 100,
+      "bbox": {
+        "left": 1295,
+        "top": 3153,
+        "right": 1384,
+        "bottom": 3203
+      }
+    },
+    {
+      "text": "yft",
+      "conf": 100,
+      "bbox": {
+        "left": 1404,
+        "top": 3155,
+        "right": 1474,
+        "bottom": 3203
+      }
+    },
+    {
+      "text": "vingnil",
+      "conf": 100,
+      "bbox": {
+        "left": 1494,
+        "top": 3151,
+        "right": 1651,
+        "bottom": 3190
+      }
+    },
+    {
+      "text": "wz.",
+      "conf": 100,
+      "bbox": {
+        "left": 1671,
+        "top": 3153,
+        "right": 1724,
+        "bottom": 3190
+      }
+    }
+  ]
+}

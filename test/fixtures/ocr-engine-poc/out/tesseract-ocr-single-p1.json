@@ -1,0 +1,388 @@
+{
+  "engine": "tesseract",
+  "page": "ocr-single-p1",
+  "ms": 340,
+  "wordCount": 38,
+  "words": [
+    {
+      "text": "Jzcbwlns",
+      "confidence": 96,
+      "bbox": {
+        "x0": 254,
+        "y0": 190,
+        "x1": 1216,
+        "y1": 376
+      }
+    },
+    {
+      "text": "Ttshsop",
+      "confidence": 96,
+      "bbox": {
+        "x0": 1294,
+        "y0": 190,
+        "x1": 2068,
+        "y1": 376
+      }
+    },
+    {
+      "text": "Ebt",
+      "confidence": 95,
+      "bbox": {
+        "x0": 242,
+        "y0": 406,
+        "x1": 374,
+        "y1": 466
+      }
+    },
+    {
+      "text": "qxsm",
+      "confidence": 96,
+      "bbox": {
+        "x0": 402,
+        "y0": 406,
+        "x1": 560,
+        "y1": 466
+      }
+    },
+    {
+      "text": "ostvnw",
+      "confidence": 96,
+      "bbox": {
+        "x0": 588,
+        "y0": 406,
+        "x1": 790,
+        "y1": 482
+      }
+    },
+    {
+      "text": "rxzunojei",
+      "confidence": 95,
+      "bbox": {
+        "x0": 816,
+        "y0": 406,
+        "x1": 1136,
+        "y1": 466
+      }
+    },
+    {
+      "text": "pzbsgtl",
+      "confidence": 96,
+      "bbox": {
+        "x0": 1170,
+        "y0": 406,
+        "x1": 1448,
+        "y1": 466
+      }
+    },
+    {
+      "text": "ebt",
+      "confidence": 96,
+      "bbox": {
+        "x0": 242,
+        "y0": 518,
+        "x1": 348,
+        "y1": 578
+      }
+    },
+    {
+      "text": "tqlbnkv",
+      "confidence": 96,
+      "bbox": {
+        "x0": 378,
+        "y0": 518,
+        "x1": 656,
+        "y1": 594
+      }
+    },
+    {
+      "text": "dtfkny",
+      "confidence": 96,
+      "bbox": {
+        "x0": 688,
+        "y0": 518,
+        "x1": 912,
+        "y1": 578
+      }
+    },
+    {
+      "text": "pko",
+      "confidence": 96,
+      "bbox": {
+        "x0": 942,
+        "y0": 518,
+        "x1": 1066,
+        "y1": 578
+      }
+    },
+    {
+      "text": "pecl",
+      "confidence": 96,
+      "bbox": {
+        "x0": 1098,
+        "y0": 518,
+        "x1": 1242,
+        "y1": 594
+      }
+    },
+    {
+      "text": "mnsom.",
+      "confidence": 96,
+      "bbox": {
+        "x0": 1268,
+        "y0": 522,
+        "x1": 1460,
+        "y1": 578
+      }
+    },
+    {
+      "text": "Cosph",
+      "confidence": 95,
+      "bbox": {
+        "x0": 248,
+        "y0": 1190,
+        "x1": 442,
+        "y1": 1266
+      }
+    },
+    {
+      "text": "tnodk",
+      "confidence": 95,
+      "bbox": {
+        "x0": 472,
+        "y0": 1190,
+        "x1": 638,
+        "y1": 1250
+      }
+    },
+    {
+      "text": "txana",
+      "confidence": 96,
+      "bbox": {
+        "x0": 668,
+        "y0": 1190,
+        "x1": 878,
+        "y1": 1250
+      }
+    },
+    {
+      "text": "t",
+      "confidence": 96,
+      "bbox": {
+        "x0": 906,
+        "y0": 1206,
+        "x1": 944,
+        "y1": 1250
+      }
+    },
+    {
+      "text": "ibvul",
+      "confidence": 96,
+      "bbox": {
+        "x0": 972,
+        "y0": 1190,
+        "x1": 1164,
+        "y1": 1266
+      }
+    },
+    {
+      "text": "zq",
+      "confidence": 93,
+      "bbox": {
+        "x0": 1190,
+        "y0": 1190,
+        "x1": 1252,
+        "y1": 1250
+      }
+    },
+    {
+      "text": "tkmrl-",
+      "confidence": 91,
+      "bbox": {
+        "x0": 1278,
+        "y0": 1194,
+        "x1": 1476,
+        "y1": 1250
+      }
+    },
+    {
+      "text": "Vzc",
+      "confidence": 73,
+      "bbox": {
+        "x0": 246,
+        "y0": 1302,
+        "x1": 338,
+        "y1": 1362
+      }
+    },
+    {
+      "text": "gdfgzr",
+      "confidence": 95,
+      "bbox": {
+        "x0": 368,
+        "y0": 1318,
+        "x1": 608,
+        "y1": 1378
+      }
+    },
+    {
+      "text": "flcztn",
+      "confidence": 96,
+      "bbox": {
+        "x0": 636,
+        "y0": 1302,
+        "x1": 854,
+        "y1": 1362
+      }
+    },
+    {
+      "text": "ebt",
+      "confidence": 96,
+      "bbox": {
+        "x0": 882,
+        "y0": 1302,
+        "x1": 988,
+        "y1": 1362
+      }
+    },
+    {
+      "text": "kotdv",
+      "confidence": 95,
+      "bbox": {
+        "x0": 1018,
+        "y0": 1306,
+        "x1": 1206,
+        "y1": 1378
+      }
+    },
+    {
+      "text": "hcssc.",
+      "confidence": 95,
+      "bbox": {
+        "x0": 1234,
+        "y0": 1302,
+        "x1": 1434,
+        "y1": 1362
+      }
+    },
+    {
+      "text": "Yckkgxx",
+      "confidence": 96,
+      "bbox": {
+        "x0": 246,
+        "y0": 1974,
+        "x1": 488,
+        "y1": 2034
+      }
+    },
+    {
+      "text": "tvlak",
+      "confidence": 96,
+      "bbox": {
+        "x0": 516,
+        "y0": 1974,
+        "x1": 682,
+        "y1": 2034
+      }
+    },
+    {
+      "text": "nweuiel",
+      "confidence": 95,
+      "bbox": {
+        "x0": 710,
+        "y0": 1974,
+        "x1": 932,
+        "y1": 2034
+      }
+    },
+    {
+      "text": "dkvgbb",
+      "confidence": 95,
+      "bbox": {
+        "x0": 964,
+        "y0": 1974,
+        "x1": 1176,
+        "y1": 2050
+      }
+    },
+    {
+      "text": "cdtzn",
+      "confidence": 96,
+      "bbox": {
+        "x0": 1204,
+        "y0": 1974,
+        "x1": 1414,
+        "y1": 2034
+      }
+    },
+    {
+      "text": "ebt",
+      "confidence": 96,
+      "bbox": {
+        "x0": 242,
+        "y0": 2086,
+        "x1": 348,
+        "y1": 2146
+      }
+    },
+    {
+      "text": "pukz",
+      "confidence": 96,
+      "bbox": {
+        "x0": 376,
+        "y0": 2102,
+        "x1": 566,
+        "y1": 2162
+      }
+    },
+    {
+      "text": "xk",
+      "confidence": 96,
+      "bbox": {
+        "x0": 596,
+        "y0": 2102,
+        "x1": 672,
+        "y1": 2146
+      }
+    },
+    {
+      "text": "elneud",
+      "confidence": 95,
+      "bbox": {
+        "x0": 704,
+        "y0": 2086,
+        "x1": 908,
+        "y1": 2146
+      }
+    },
+    {
+      "text": "ozaqfa",
+      "confidence": 96,
+      "bbox": {
+        "x0": 938,
+        "y0": 2086,
+        "x1": 1186,
+        "y1": 2162
+      }
+    },
+    {
+      "text": "diace",
+      "confidence": 96,
+      "bbox": {
+        "x0": 1216,
+        "y0": 2086,
+        "x1": 1368,
+        "y1": 2146
+      }
+    },
+    {
+      "text": "ufnr.",
+      "confidence": 96,
+      "bbox": {
+        "x0": 1394,
+        "y0": 2102,
+        "x1": 1562,
+        "y1": 2162
+      }
+    }
+  ]
+}

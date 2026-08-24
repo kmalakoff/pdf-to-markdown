@@ -1,0 +1,122 @@
+{
+  "original-p10": {
+    "baseWordCount": 417,
+    "gutenye": {
+      "baseTotal": 417,
+      "engTotal": 417,
+      "matched": 410,
+      "overlapPct": 98.32134292565948,
+      "engOnlyCount": 7,
+      "engOnlyPct": 1.6786570743405276,
+      "ms": 2165
+    },
+    "scribe": {
+      "baseTotal": 417,
+      "engTotal": 425,
+      "matched": 412,
+      "overlapPct": 98.8009592326139,
+      "engOnlyCount": 13,
+      "engOnlyPct": 3.0588235294117645,
+      "ms": 7641
+    },
+    "tesseract": {
+      "baseTotal": 417,
+      "engTotal": 440,
+      "matched": 396,
+      "overlapPct": 94.96402877697842,
+      "engOnlyCount": 44,
+      "engOnlyPct": 10,
+      "ms": 2941
+    }
+  },
+  "original-p27": {
+    "baseWordCount": 370,
+    "gutenye": {
+      "baseTotal": 370,
+      "engTotal": 380,
+      "matched": 364,
+      "overlapPct": 98.37837837837837,
+      "engOnlyCount": 16,
+      "engOnlyPct": 4.2105263157894735,
+      "ms": 1724
+    },
+    "scribe": {
+      "baseTotal": 370,
+      "engTotal": 376,
+      "matched": 364,
+      "overlapPct": 98.37837837837837,
+      "engOnlyCount": 12,
+      "engOnlyPct": 3.1914893617021276,
+      "ms": 5821
+    },
+    "tesseract": {
+      "baseTotal": 370,
+      "engTotal": 394,
+      "matched": 338,
+      "overlapPct": 91.35135135135135,
+      "engOnlyCount": 56,
+      "engOnlyPct": 14.213197969543147,
+      "ms": 2599
+    }
+  },
+  "original-p57": {
+    "baseWordCount": 448,
+    "gutenye": {
+      "baseTotal": 448,
+      "engTotal": 450,
+      "matched": 447,
+      "overlapPct": 99.77678571428571,
+      "engOnlyCount": 3,
+      "engOnlyPct": 0.6666666666666666,
+      "ms": 1801
+    },
+    "scribe": {
+      "baseTotal": 448,
+      "engTotal": 457,
+      "matched": 448,
+      "overlapPct": 100,
+      "engOnlyCount": 9,
+      "engOnlyPct": 1.9693654266958425,
+      "ms": 6314
+    },
+    "tesseract": {
+      "baseTotal": 448,
+      "engTotal": 451,
+      "matched": 447,
+      "overlapPct": 99.77678571428571,
+      "engOnlyCount": 4,
+      "engOnlyPct": 0.8869179600886918,
+      "ms": 2673
+    }
+  },
+  "ocr-single-p1": {
+    "baseWordCount": 38,
+    "gutenye": {
+      "baseTotal": 38,
+      "engTotal": 38,
+      "matched": 38,
+      "overlapPct": 100,
+      "engOnlyCount": 0,
+      "engOnlyPct": 0,
+      "ms": 816
+    },
+    "scribe": {
+      "baseTotal": 38,
+      "engTotal": 38,
+      "matched": 38,
+      "overlapPct": 100,
+      "engOnlyCount": 0,
+      "engOnlyPct": 0,
+      "ms": 1025
+    },
+    "tesseract": {
+      "baseTotal": 38,
+      "engTotal": 38,
+      "matched": 38,
+      "overlapPct": 100,
+      "engOnlyCount": 0,
+      "engOnlyPct": 0,
+      "ms": 340
+    }
+  }
+}

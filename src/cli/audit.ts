@@ -1,0 +1,26 @@
+// audit command — the severity-1 audit instrument (README's "Design
+// contract") as a first-class subcommand. Thin wrapper over src/audit.ts's auditWords (the library returns data, only the CLI prints and exits).
+import type { Command } from './types.ts';
+
+const USAGE = 'usage: pdf-to-md audit <words.jsonl> <file.md>';
+
+const audit: Command = async (ctx) => {
+  if (ctx.rest.includes('-h') || ctx.rest.includes('--help')) {
+    console.log(USAGE);
+    return;
+  }
+  const [wordsPath, mdPath] = ctx.rest;
+  if (!wordsPath || !mdPath) ctx.usageError(USAGE);
+
+  // Imported here, not at module top, same lazy-load rule as every other
+  // command — `pdf-to-md audit` should never pay for what the other commands need.
+  const { auditWords } = await import('../audit.ts');
+  const result = auditWords(wordsPath, mdPath);
+  for (const line of result.lines) console.log(line);
+
+  // MISSING>0 is the severity-1 fail signal: a recognized word this markdown
+  // lost. Exit 1 so the subcommand is usable as a CI gate; strict_deficits from hyphen-join repairs are reported but not failures.
+  if (result.missing > 0) process.exitCode = 1;
+};
+
+export default audit;

@@ -1,0 +1,931 @@
+{
+  "engine": "gutenye",
+  "page": "original-p27",
+  "ms": 1724,
+  "lines": [
+    {
+      "text": "DISCOVER",
+      "mean": 0.9932738840579987,
+      "box": [
+        [
+          77,
+          284
+        ],
+        [
+          1256,
+          284
+        ],
+        [
+          1256,
+          484
+        ],
+        [
+          77,
+          484
+        ]
+      ]
+    },
+    {
+      "text": "1/3",
+      "mean": 0.9994892477989197,
+      "box": [
+        [
+          1754,
+          451
+        ],
+        [
+          2210,
+          451
+        ],
+        [
+          2210,
+          699
+        ],
+        [
+          1754,
+          699
+        ]
+      ]
+    },
+    {
+      "text": "yofHum",
+      "mean": 0.8303956488768259,
+      "box": [
+        [
+          1625,
+          542
+        ],
+        [
+          1723,
+          563
+        ],
+        [
+          1671,
+          808
+        ],
+        [
+          1573,
+          787
+        ]
+      ]
+    },
+    {
+      "text": "profiles Under the",
+      "mean": 0.913575320194165,
+      "box": [
+        [
+          1362,
+          557
+        ],
+        [
+          1679,
+          542
+        ],
+        [
+          1644,
+          602
+        ],
+        [
+          1393,
+          600
+        ]
+      ]
+    },
+    {
+      "text": "The",
+      "mean": 0.9862357179323832,
+      "box": [
+        [
+          1361,
+          633
+        ],
+        [
+          1385,
+          576
+        ],
+        [
+          1407,
+          585
+        ],
+        [
+          1383,
+          642
+        ]
+      ]
+    },
+    {
+      "text": "THE THRUHT.",
+      "mean": 0.9299890669909391,
+      "box": [
+        [
+          70,
+          654
+        ],
+        [
+          1528,
+          654
+        ],
+        [
+          1528,
+          862
+        ],
+        [
+          70,
+          862
+        ]
+      ]
+    },
+    {
+      "text": "and you become the go-to person for",
+      "mean": 0.989777704922571,
+      "box": [
+        [
+          1242,
+          1012
+        ],
+        [
+          2287,
+          1017
+        ],
+        [
+          2284,
+          1063
+        ],
+        [
+          1241,
+          1065
+        ]
+      ]
+    },
+    {
+      "text": "information and advice. You are like a wise",
+      "mean": 0.9871442304101101,
+      "box": [
+        [
+          1246,
+          1074
+        ],
+        [
+          2282,
+          1077
+        ],
+        [
+          2282,
+          1125
+        ],
+        [
+          1246,
+          1122
+        ]
+      ]
+    },
+    {
+      "text": "old sage, sharing your wisdom with anyone",
+      "mean": 0.9921985675648946,
+      "box": [
+        [
+          1243,
+          1137
+        ],
+        [
+          2285,
+          1138
+        ],
+        [
+          2285,
+          1196
+        ],
+        [
+          1243,
+          1195
+        ]
+      ]
+    },
+    {
+      "text": "who will listen.",
+      "mean": 0.9969768971204758,
+      "box": [
+        [
+          1249,
+          1203
+        ],
+        [
+          1601,
+          1205
+        ],
+        [
+          1601,
+          1249
+        ],
+        [
+          1249,
+          1247
+        ]
+      ]
+    },
+    {
+      "text": "You value honesty and authenticity above",
+      "mean": 0.9797982931137085,
+      "box": [
+        [
+          1246,
+          1263
+        ],
+        [
+          2282,
+          1265
+        ],
+        [
+          2282,
+          1318
+        ],
+        [
+          1246,
+          1316
+        ]
+      ]
+    },
+    {
+      "text": "all else, and you can't be fooled by anyone's",
+      "mean": 0.9869297583897908,
+      "box": [
+        [
+          1245,
+          1324
+        ],
+        [
+          2283,
+          1329
+        ],
+        [
+          2283,
+          1383
+        ],
+        [
+          1245,
+          1378
+        ]
+      ]
+    },
+    {
+      "text": "misinformation. You are like a human lie",
+      "mean": 0.9506542265415192,
+      "box": [
+        [
+          1246,
+          1388
+        ],
+        [
+          2287,
+          1388
+        ],
+        [
+          2287,
+          1439
+        ],
+        [
+          1246,
+          1439
+        ]
+      ]
+    },
+    {
+      "text": "detector - you can spot a lie from a mile",
+      "mean": 0.9536282202092613,
+      "box": [
+        [
+          1243,
+          1451
+        ],
+        [
+          2287,
+          1449
+        ],
+        [
+          2287,
+          1510
+        ],
+        [
+          1243,
+          1512
+        ]
+      ]
+    },
+    {
+      "text": "away.Overall,  you are a curious s and",
+      "mean": 0.9581896314090425,
+      "box": [
+        [
+          1246,
+          1524
+        ],
+        [
+          2285,
+          1512
+        ],
+        [
+          2288,
+          1564
+        ],
+        [
+          1246,
+          1567
+        ]
+      ]
+    },
+    {
+      "text": "determined person. You are not afraid to",
+      "mean": 0.9878639712929725,
+      "box": [
+        [
+          1244,
+          1579
+        ],
+        [
+          2285,
+          1575
+        ],
+        [
+          2285,
+          1630
+        ],
+        [
+          1244,
+          1634
+        ]
+      ]
+    },
+    {
+      "text": "make mistakes and learn from them, and",
+      "mean": 0.971198740758394,
+      "box": [
+        [
+          1243,
+          1641
+        ],
+        [
+          2284,
+          1641
+        ],
+        [
+          2284,
+          1691
+        ],
+        [
+          1243,
+          1691
+        ]
+      ]
+    },
+    {
+      "text": "always s looking for  creative solutions s  to",
+      "mean": 0.9055607251988518,
+      "box": [
+        [
+          1247,
+          1703
+        ],
+        [
+          2283,
+          1709
+        ],
+        [
+          2283,
+          1750
+        ],
+        [
+          1245,
+          1751
+        ]
+      ]
+    },
+    {
+      "text": "problems. You  learn through acquiring",
+      "mean": 0.9846512573105948,
+      "box": [
+        [
+          1246,
+          1769
+        ],
+        [
+          2281,
+          1775
+        ],
+        [
+          2281,
+          1820
+        ],
+        [
+          1247,
+          1818
+        ]
+      ]
+    },
+    {
+      "text": "knowledge and then putting it through",
+      "mean": 0.9891336022151841,
+      "box": [
+        [
+          1245,
+          1829
+        ],
+        [
+          2280,
+          1832
+        ],
+        [
+          2280,
+          1883
+        ],
+        [
+          1244,
+          1877
+        ]
+      ]
+    },
+    {
+      "text": "hands-on experience, and you can be a little",
+      "mean": 0.9887248562140898,
+      "box": [
+        [
+          1240,
+          1890
+        ],
+        [
+          2284,
+          1891
+        ],
+        [
+          2284,
+          1947
+        ],
+        [
+          1240,
+          1946
+        ]
+      ]
+    },
+    {
+      "text": "stubborn when it comes to trying new",
+      "mean": 0.9785665481661756,
+      "box": [
+        [
+          1244,
+          1952
+        ],
+        [
+          2279,
+          1969
+        ],
+        [
+          2279,
+          2002
+        ],
+        [
+          1244,
+          2003
+        ]
+      ]
+    },
+    {
+      "text": "As a 1%3, you are a master of truth and a things. But ultimately, your desire for the",
+      "mean": 0.9812013715150609,
+      "box": [
+        [
+          86,
+          2014
+        ],
+        [
+          2284,
+          2017
+        ],
+        [
+          2284,
+          2071
+        ],
+        [
+          86,
+          2071
+        ]
+      ]
+    },
+    {
+      "text": "natural detective. You are always on the truth drives you forward, and you won't",
+      "mean": 0.9857161996456293,
+      "box": [
+        [
+          82,
+          2083
+        ],
+        [
+          2287,
+          2078
+        ],
+        [
+          2287,
+          2136
+        ],
+        [
+          82,
+          2134
+        ]
+      ]
+    },
+    {
+      "text": "lookout for clues and obstacles and easily rest until you've uncovered it.",
+      "mean": 0.97347525714363,
+      "box": [
+        [
+          79,
+          2140
+        ],
+        [
+          1939,
+          2145
+        ],
+        [
+          1939,
+          2193
+        ],
+        [
+          79,
+          2197
+        ]
+      ]
+    },
+    {
+      "text": "find ways to overcome them. You are like a",
+      "mean": 0.9802002154645466,
+      "box": [
+        [
+          81,
+          2213
+        ],
+        [
+          1124,
+          2213
+        ],
+        [
+          1124,
+          2267
+        ],
+        [
+          81,
+          2267
+        ]
+      ]
+    },
+    {
+      "text": "bloodhound with a bone - once you get your You are so good at sniffing out the truth",
+      "mean": 0.9751396153585143,
+      "box": [
+        [
+          84,
+          2278
+        ],
+        [
+          2283,
+          2267
+        ],
+        [
+          2283,
+          2324
+        ],
+        [
+          84,
+          2330
+        ]
+      ]
+    },
+    {
+      "text": "teeth into something, you won't let go until that you could give Sherlock Holmes a run",
+      "mean": 0.9809268140574781,
+      "box": [
+        [
+          79,
+          2345
+        ],
+        [
+          2287,
+          2331
+        ],
+        [
+          2287,
+          2385
+        ],
+        [
+          79,
+          2401
+        ]
+      ]
+    },
+    {
+      "text": "you'ves solved  the mystery. But this for his money. . You are like a real-life",
+      "mean": 0.9588129643210307,
+      "box": [
+        [
+          80,
+          2421
+        ],
+        [
+          2281,
+          2396
+        ],
+        [
+          2281,
+          2443
+        ],
+        [
+          82,
+          2467
+        ]
+      ]
+    },
+    {
+      "text": "investigative mindset t can sometimes make detective, alwayss solving mysteries and",
+      "mean": 0.9893659202622719,
+      "box": [
+        [
+          84,
+          2483
+        ],
+        [
+          2282,
+          2459
+        ],
+        [
+          2283,
+          2502
+        ],
+        [
+          84,
+          2526
+        ]
+      ]
+    },
+    {
+      "text": "you feel insecure, so you seek out people uncovering secrets. You do it to learn and",
+      "mean": 0.983233145443543,
+      "box": [
+        [
+          77,
+          2539
+        ],
+        [
+          2285,
+          2517
+        ],
+        [
+          2285,
+          2569
+        ],
+        [
+          77,
+          2603
+        ]
+      ]
+    },
+    {
+      "text": "who can help guide you. You will be careful grow, to become a master in your field. You",
+      "mean": 0.9855759753737339,
+      "box": [
+        [
+          86,
+          2610
+        ],
+        [
+          2282,
+          2579
+        ],
+        [
+          2282,
+          2633
+        ],
+        [
+          86,
+          2661
+        ]
+      ]
+    },
+    {
+      "text": "are not afraid to put in the hard work and",
+      "mean": 0.9932867856252761,
+      "box": [
+        [
+          1242,
+          2647
+        ],
+        [
+          2282,
+          2644
+        ],
+        [
+          2282,
+          2696
+        ],
+        [
+          1242,
+          2699
+        ]
+      ]
+    },
+    {
+      "text": "not to draw too much attention to yourself",
+      "mean": 0.9828703885986692,
+      "box": [
+        [
+          82,
+          2674
+        ],
+        [
+          1124,
+          2676
+        ],
+        [
+          1124,
+          2729
+        ],
+        [
+          82,
+          2727
+        ]
+      ]
+    },
+    {
+      "text": "dedication it takes to get there, and you'll",
+      "mean": 0.9766104966402054,
+      "box": [
+        [
+          1245,
+          2708
+        ],
+        [
+          2282,
+          2708
+        ],
+        [
+          2282,
+          2762
+        ],
+        [
+          1245,
+          2762
+        ]
+      ]
+    },
+    {
+      "text": "until you feel confident and in control.",
+      "mean": 0.9976959928870202,
+      "box": [
+        [
+          86,
+          2743
+        ],
+        [
+          971,
+          2742
+        ],
+        [
+          971,
+          2792
+        ],
+        [
+          86,
+          2793
+        ]
+      ]
+    },
+    {
+      "text": "stop at nothing to achieve your goals.",
+      "mean": 0.9704161709860751,
+      "box": [
+        [
+          1243,
+          2775
+        ],
+        [
+          2123,
+          2771
+        ],
+        [
+          2123,
+          2824
+        ],
+        [
+          1243,
+          2828
+        ]
+      ]
+    },
+    {
+      "text": "Once you find your footing, though, you are Because you learn through the 1 and have",
+      "mean": 0.9874780423939228,
+      "box": [
+        [
+          89,
+          2874
+        ],
+        [
+          2284,
+          2896
+        ],
+        [
+          2284,
+          2950
+        ],
+        [
+          89,
+          2924
+        ]
+      ]
+    },
+    {
+      "text": "a force to be reckoned with. You are not the life experience e 3 to back it up, it is",
+      "mean": 0.9544143684164822,
+      "box": [
+        [
+          85,
+          2938
+        ],
+        [
+          2283,
+          2961
+        ],
+        [
+          2283,
+          3015
+        ],
+        [
+          85,
+          2985
+        ]
+      ]
+    },
+    {
+      "text": "afraid to put in the hard work and important that you allow your mind to",
+      "mean": 0.984809392966606,
+      "box": [
+        [
+          80,
+          3002
+        ],
+        [
+          2286,
+          3021
+        ],
+        [
+          2286,
+          3078
+        ],
+        [
+          80,
+          3063
+        ]
+      ]
+    },
+    {
+      "text": "dedication to become a master in your field. move and change with your experience not",
+      "mean": 0.9783466690643268,
+      "box": [
+        [
+          85,
+          3071
+        ],
+        [
+          2288,
+          3088
+        ],
+        [
+          2288,
+          3142
+        ],
+        [
+          85,
+          3125
+        ]
+      ]
+    },
+    {
+      "text": "You are always learning and growing. to get stuck.",
+      "mean": 0.9857522265141846,
+      "box": [
+        [
+          86,
+          3133
+        ],
+        [
+          1530,
+          3151
+        ],
+        [
+          1530,
+          3196
+        ],
+        [
+          86,
+          3185
+        ]
+      ]
+    }
+  ]
+}
